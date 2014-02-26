@@ -11,19 +11,19 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>213</integer>
+				<integer>208</integer>
 			</dict>
 			<key>LAC::Stream::primaryPresenter</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>141</integer>
+				<integer>137</integer>
 			</dict>
 			<key>LAC::globalScaleFactor</key>
 			<real>1</real>
 			<key>LAC::inputInterface</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>209</integer>
+				<integer>204</integer>
 			</dict>
 			<key>LAC::name</key>
 			<dict>
@@ -38,7 +38,7 @@
 			<key>LAC::outputInterface</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>210</integer>
+				<integer>205</integer>
 			</dict>
 		</dict>
 		<string>(untitled)</string>
@@ -61,7 +61,7 @@
 			<key>NS.object.10</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>197</integer>
+				<integer>196</integer>
 			</dict>
 			<key>NS.object.2</key>
 			<dict>
@@ -86,22 +86,22 @@
 			<key>NS.object.6</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>141</integer>
+				<integer>137</integer>
 			</dict>
 			<key>NS.object.7</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>161</integer>
+				<integer>160</integer>
 			</dict>
 			<key>NS.object.8</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>173</integer>
+				<integer>172</integer>
 			</dict>
 			<key>NS.object.9</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>139</integer>
+				<integer>140</integer>
 			</dict>
 		</dict>
 		<dict>
@@ -338,7 +338,7 @@
 			<key>$classname</key>
 			<string>LACOutput</string>
 		</dict>
-		<string>{139.01556, 861.70905}</string>
+		<string>{143.01556, 921.70905}</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -651,7 +651,7 @@
 			</dict>
 		</dict>
 		<string>image 1</string>
-		<string>{137.15637, 1079.3435}</string>
+		<string>{145.15637, 1026.3435}</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -960,7 +960,7 @@
 				<integer>102</integer>
 			</dict>
 		</dict>
-		<string>{133, 504}</string>
+		<string>{156, 580}</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1529,7 +1529,7 @@
 			<key>LAC::UI::centerPoint</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>142</integer>
+				<integer>141</integer>
 			</dict>
 			<key>LAC::UI::scaleFactor</key>
 			<real>1</real>
@@ -1555,14 +1555,14 @@
 			<key>LQ::attributes</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>143</integer>
+				<integer>142</integer>
 			</dict>
 			<key>LQ::autoRenameImageNodes</key>
 			<true/>
 			<key>conduitXMLPlistProjectFilePath</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>144</integer>
+				<integer>143</integer>
 			</dict>
 		</dict>
 		<string>{395, 437}</string>
@@ -2346,79 +2346,7 @@
 			<key>NS.object.1</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>140</integer>
-			</dict>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>16</integer>
-			</dict>
-			<key>LAC::connectedOutput</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>134</integer>
-			</dict>
-			<key>LAC::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>137</integer>
-			</dict>
-			<key>LAC::owner</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>139</integer>
-			</dict>
-			<key>LAC::typeID</key>
-			<dict>
-				<key>CF$UID</key>
 				<integer>138</integer>
-			</dict>
-		</dict>
-		<string>video to be captured</string>
-		<string>id</string>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>196</integer>
-			</dict>
-			<key>LAC::UI::appearanceFlags</key>
-			<integer>0</integer>
-			<key>LAC::UI::centerPoint</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>184</integer>
-			</dict>
-			<key>LAC::UI::scaleFactor</key>
-			<real>1</real>
-			<key>LAC::inputs</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>183</integer>
-			</dict>
-			<key>LAC::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>182</integer>
-			</dict>
-			<key>LAC::outputs</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>6</integer>
-			</dict>
-			<key>LAC::tag</key>
-			<integer>939468574</integer>
-			<key>LQ::attributes</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>185</integer>
-			</dict>
-			<key>LQ::recMediaProperties</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>186</integer>
 			</dict>
 		</dict>
 		<dict>
@@ -2440,7 +2368,7 @@
 			<key>LAC::owner</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>141</integer>
+				<integer>137</integer>
 			</dict>
 			<key>LAC::typeID</key>
 			<dict>
@@ -2452,26 +2380,26 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>160</integer>
+				<integer>159</integer>
 			</dict>
 			<key>LAC::UI::appearanceFlags</key>
 			<integer>0</integer>
 			<key>LAC::UI::centerPoint</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>152</integer>
+				<integer>151</integer>
 			</dict>
 			<key>LAC::UI::scaleFactor</key>
 			<real>1</real>
 			<key>LAC::inputs</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>146</integer>
+				<integer>145</integer>
 			</dict>
 			<key>LAC::name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>145</integer>
+				<integer>144</integer>
 			</dict>
 			<key>LAC::outputs</key>
 			<dict>
@@ -2483,7 +2411,7 @@
 			<key>LCL::enableScalingBools</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>154</integer>
+				<integer>153</integer>
 			</dict>
 			<key>LCL::headCount</key>
 			<integer>4</integer>
@@ -2492,15 +2420,86 @@
 			<key>LCL::outRectsStr</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>155</integer>
+				<integer>154</integer>
 			</dict>
 			<key>LQ::attributes</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>153</integer>
+				<integer>152</integer>
 			</dict>
 		</dict>
-		<string>{736.49585, 610.5}</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>16</integer>
+			</dict>
+			<key>LAC::connectedOutput</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>134</integer>
+			</dict>
+			<key>LAC::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>139</integer>
+			</dict>
+			<key>LAC::owner</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>140</integer>
+			</dict>
+			<key>LAC::typeID</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>11</integer>
+			</dict>
+		</dict>
+		<string>video to be captured</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>195</integer>
+			</dict>
+			<key>LAC::UI::appearanceFlags</key>
+			<integer>0</integer>
+			<key>LAC::UI::centerPoint</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>183</integer>
+			</dict>
+			<key>LAC::UI::scaleFactor</key>
+			<real>1</real>
+			<key>LAC::inputs</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>182</integer>
+			</dict>
+			<key>LAC::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>181</integer>
+			</dict>
+			<key>LAC::outputs</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>6</integer>
+			</dict>
+			<key>LAC::tag</key>
+			<integer>939468574</integer>
+			<key>LQ::attributes</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>184</integer>
+			</dict>
+			<key>LQ::recMediaProperties</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>185</integer>
+			</dict>
+		</dict>
+		<string>{687.49585, 601.5}</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2519,27 +2518,27 @@
 			<key>NS.object.0</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>140</integer>
+				<integer>136</integer>
 			</dict>
 			<key>NS.object.1</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>147</integer>
+				<integer>146</integer>
 			</dict>
 			<key>NS.object.2</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>148</integer>
+				<integer>147</integer>
 			</dict>
 			<key>NS.object.3</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>149</integer>
+				<integer>148</integer>
 			</dict>
 			<key>NS.object.4</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>150</integer>
+				<integer>149</integer>
 			</dict>
 		</dict>
 		<dict>
@@ -2561,7 +2560,7 @@
 			<key>LAC::owner</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>141</integer>
+				<integer>137</integer>
 			</dict>
 			<key>LAC::typeID</key>
 			<dict>
@@ -2588,7 +2587,7 @@
 			<key>LAC::owner</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>141</integer>
+				<integer>137</integer>
 			</dict>
 			<key>LAC::typeID</key>
 			<dict>
@@ -2615,7 +2614,7 @@
 			<key>LAC::owner</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>141</integer>
+				<integer>137</integer>
 			</dict>
 			<key>LAC::typeID</key>
 			<dict>
@@ -2637,12 +2636,12 @@
 			<key>LAC::name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>151</integer>
+				<integer>150</integer>
 			</dict>
 			<key>LAC::owner</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>141</integer>
+				<integer>137</integer>
 			</dict>
 			<key>LAC::typeID</key>
 			<dict>
@@ -2671,22 +2670,22 @@
 			<key>NS.object.0</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>156</integer>
+				<integer>155</integer>
 			</dict>
 			<key>NS.object.1</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>157</integer>
+				<integer>156</integer>
 			</dict>
 			<key>NS.object.2</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>158</integer>
+				<integer>157</integer>
 			</dict>
 			<key>NS.object.3</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>159</integer>
+				<integer>158</integer>
 			</dict>
 		</dict>
 		<string>{{0, 0}, {1, 1}}</string>
@@ -2711,14 +2710,14 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>172</integer>
+				<integer>171</integer>
 			</dict>
 			<key>LAC::UI::appearanceFlags</key>
 			<integer>0</integer>
 			<key>LAC::UI::centerPoint</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>170</integer>
+				<integer>169</integer>
 			</dict>
 			<key>LAC::UI::scaleFactor</key>
 			<real>1</real>
@@ -2730,19 +2729,19 @@
 			<key>LAC::name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>162</integer>
+				<integer>161</integer>
 			</dict>
 			<key>LAC::outputs</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>163</integer>
+				<integer>162</integer>
 			</dict>
 			<key>LAC::tag</key>
 			<integer>631506474</integer>
 			<key>LQ::attributes</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>171</integer>
+				<integer>170</integer>
 			</dict>
 			<key>LQ::availableVideoDevices</key>
 			<dict>
@@ -2764,12 +2763,12 @@
 			<key>NS.object.0</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>164</integer>
+				<integer>163</integer>
 			</dict>
 			<key>NS.object.1</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>167</integer>
+				<integer>166</integer>
 			</dict>
 		</dict>
 		<dict>
@@ -2781,19 +2780,19 @@
 			<key>LAC::connectedInputs</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>166</integer>
+				<integer>165</integer>
 			</dict>
 			<key>LAC::index</key>
 			<integer>0</integer>
 			<key>LAC::name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>165</integer>
+				<integer>164</integer>
 			</dict>
 			<key>LAC::owner</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>161</integer>
+				<integer>160</integer>
 			</dict>
 			<key>LAC::typeID</key>
 			<dict>
@@ -2818,19 +2817,19 @@
 			<key>LAC::connectedInputs</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>169</integer>
+				<integer>168</integer>
 			</dict>
 			<key>LAC::index</key>
 			<integer>1</integer>
 			<key>LAC::name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>168</integer>
+				<integer>167</integer>
 			</dict>
 			<key>LAC::owner</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>161</integer>
+				<integer>160</integer>
 			</dict>
 			<key>LAC::typeID</key>
 			<dict>
@@ -2846,7 +2845,7 @@
 				<integer>17</integer>
 			</dict>
 		</dict>
-		<string>{141.01556, 652}</string>
+		<string>{148.01556, 774}</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2872,14 +2871,14 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>172</integer>
+				<integer>171</integer>
 			</dict>
 			<key>LAC::UI::appearanceFlags</key>
 			<integer>0</integer>
 			<key>LAC::UI::centerPoint</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>180</integer>
+				<integer>179</integer>
 			</dict>
 			<key>LAC::UI::scaleFactor</key>
 			<real>1</real>
@@ -2891,19 +2890,19 @@
 			<key>LAC::name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>174</integer>
+				<integer>173</integer>
 			</dict>
 			<key>LAC::outputs</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>175</integer>
+				<integer>174</integer>
 			</dict>
 			<key>LAC::tag</key>
 			<integer>1635899091</integer>
 			<key>LQ::attributes</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>181</integer>
+				<integer>180</integer>
 			</dict>
 			<key>LQ::availableVideoDevices</key>
 			<dict>
@@ -2925,12 +2924,12 @@
 			<key>NS.object.0</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>176</integer>
+				<integer>175</integer>
 			</dict>
 			<key>NS.object.1</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>178</integer>
+				<integer>177</integer>
 			</dict>
 		</dict>
 		<dict>
@@ -2942,19 +2941,19 @@
 			<key>LAC::connectedInputs</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>177</integer>
+				<integer>176</integer>
 			</dict>
 			<key>LAC::index</key>
 			<integer>0</integer>
 			<key>LAC::name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>165</integer>
+				<integer>164</integer>
 			</dict>
 			<key>LAC::owner</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>173</integer>
+				<integer>172</integer>
 			</dict>
 			<key>LAC::typeID</key>
 			<dict>
@@ -2978,19 +2977,19 @@
 			<key>LAC::connectedInputs</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>179</integer>
+				<integer>178</integer>
 			</dict>
 			<key>LAC::index</key>
 			<integer>1</integer>
 			<key>LAC::name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>168</integer>
+				<integer>167</integer>
 			</dict>
 			<key>LAC::owner</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>173</integer>
+				<integer>172</integer>
 			</dict>
 			<key>LAC::typeID</key>
 			<dict>
@@ -3005,7 +3004,7 @@
 				<integer>17</integer>
 			</dict>
 		</dict>
-		<string>{139.25641, 334.51282}</string>
+		<string>{156.25641, 436.51282}</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3023,7 +3022,7 @@
 			<key>NS.object.0</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>136</integer>
+				<integer>138</integer>
 			</dict>
 		</dict>
 		<string>{1003.6031, 496.41388}</string>
@@ -3043,52 +3042,52 @@
 			<key>NS.key.0</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>187</integer>
+				<integer>186</integer>
 			</dict>
 			<key>NS.key.1</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>189</integer>
+				<integer>188</integer>
 			</dict>
 			<key>NS.key.2</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>191</integer>
+				<integer>190</integer>
 			</dict>
 			<key>NS.key.3</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>192</integer>
+				<integer>191</integer>
 			</dict>
 			<key>NS.key.4</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>194</integer>
+				<integer>193</integer>
 			</dict>
 			<key>NS.object.0</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>188</integer>
+				<integer>187</integer>
 			</dict>
 			<key>NS.object.1</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>190</integer>
+				<integer>189</integer>
 			</dict>
 			<key>NS.object.2</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>188</integer>
+				<integer>187</integer>
 			</dict>
 			<key>NS.object.3</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>193</integer>
+				<integer>192</integer>
 			</dict>
 			<key>NS.object.4</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>195</integer>
+				<integer>194</integer>
 			</dict>
 		</dict>
 		<string>allowYUV</string>
@@ -3119,26 +3118,26 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>196</integer>
+				<integer>195</integer>
 			</dict>
 			<key>LAC::UI::appearanceFlags</key>
 			<integer>0</integer>
 			<key>LAC::UI::centerPoint</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>201</integer>
+				<integer>200</integer>
 			</dict>
 			<key>LAC::UI::scaleFactor</key>
 			<real>1</real>
 			<key>LAC::inputs</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>199</integer>
+				<integer>198</integer>
 			</dict>
 			<key>LAC::name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>198</integer>
+				<integer>197</integer>
 			</dict>
 			<key>LAC::outputs</key>
 			<dict>
@@ -3150,12 +3149,12 @@
 			<key>LQ::attributes</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>202</integer>
+				<integer>201</integer>
 			</dict>
 			<key>LQ::recMediaProperties</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>203</integer>
+				<integer>202</integer>
 			</dict>
 		</dict>
 		<string>rendcap 2</string>
@@ -3168,7 +3167,7 @@
 			<key>NS.object.0</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>200</integer>
+				<integer>199</integer>
 			</dict>
 		</dict>
 		<dict>
@@ -3185,17 +3184,17 @@
 			<key>LAC::name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>137</integer>
+				<integer>139</integer>
 			</dict>
 			<key>LAC::owner</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>197</integer>
+				<integer>196</integer>
 			</dict>
 			<key>LAC::typeID</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>138</integer>
+				<integer>11</integer>
 			</dict>
 		</dict>
 		<string>{451.39685, 172.9845}</string>
@@ -3215,59 +3214,55 @@
 			<key>NS.key.0</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>204</integer>
+				<integer>186</integer>
 			</dict>
 			<key>NS.key.1</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>205</integer>
+				<integer>188</integer>
 			</dict>
 			<key>NS.key.2</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>206</integer>
+				<integer>190</integer>
 			</dict>
 			<key>NS.key.3</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>192</integer>
+				<integer>191</integer>
 			</dict>
 			<key>NS.key.4</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>208</integer>
+				<integer>193</integer>
 			</dict>
 			<key>NS.object.0</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>188</integer>
+				<integer>187</integer>
 			</dict>
 			<key>NS.object.1</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>190</integer>
+				<integer>189</integer>
 			</dict>
 			<key>NS.object.2</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>188</integer>
+				<integer>187</integer>
 			</dict>
 			<key>NS.object.3</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>207</integer>
+				<integer>203</integer>
 			</dict>
 			<key>NS.object.4</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>195</integer>
+				<integer>194</integer>
 			</dict>
 		</dict>
-		<string>allowYUV</string>
-		<string>fileFormatID</string>
-		<string>allowAlpha</string>
 		<real>1</real>
-		<string>preferredBitsPerChannel</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3284,26 +3279,26 @@
 			<key>NS.key.0</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>211</integer>
+				<integer>206</integer>
 			</dict>
 			<key>NS.key.1</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>212</integer>
+				<integer>207</integer>
 			</dict>
 			<key>NS.object.0</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>200</integer>
+				<integer>138</integer>
 			</dict>
 			<key>NS.object.1</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>136</integer>
+				<integer>199</integer>
 			</dict>
 		</dict>
-		<string>renderedCapture-610112517.0</string>
 		<string>renderedCapture-939468574.0</string>
+		<string>renderedCapture-610112517.0</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -3319,7 +3314,7 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>215</integer>
+				<integer>210</integer>
 			</dict>
 			<key>fps</key>
 			<real>60</real>
@@ -3341,7 +3336,7 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>215</integer>
+				<integer>210</integer>
 			</dict>
 			<key>fps</key>
 			<real>60</real>
@@ -3354,24 +3349,24 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>221</integer>
+				<integer>216</integer>
 			</dict>
 			<key>appendsTimestamp</key>
 			<true/>
 			<key>captureDescription</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>220</integer>
+				<integer>215</integer>
 			</dict>
 			<key>captureDestinationFolder</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>219</integer>
+				<integer>214</integer>
 			</dict>
 			<key>captureSessionName</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>218</integer>
+				<integer>213</integer>
 			</dict>
 			<key>capturesOriginalStreams</key>
 			<false/>
@@ -3398,19 +3393,19 @@
 		<key>LCLProject::captureSessionSettings</key>
 		<dict>
 			<key>CF$UID</key>
-			<integer>217</integer>
+			<integer>212</integer>
 		</dict>
 		<key>LCLProject::durationSpan</key>
 		<dict>
 			<key>CF$UID</key>
-			<integer>214</integer>
+			<integer>209</integer>
 		</dict>
 		<key>LCLProject::isTimeline</key>
 		<false/>
 		<key>LCLProject::selectionSpan</key>
 		<dict>
 			<key>CF$UID</key>
-			<integer>216</integer>
+			<integer>211</integer>
 		</dict>
 		<key>LCLProject::streamPatch</key>
 		<dict>
