@@ -14,9 +14,9 @@
       "class" : "LCLStageToolsMovieStreamSource"
     },
     {
-      "tag" : 1825717503,
-      "name" : "source 4",
-      "class" : "LQQTKitCaptureStreamSource"
+      "tag" : 120409912,
+      "name" : "Slides",
+      "class" : "LCLStageToolsMovieStreamSource"
     },
     {
       "tag" : 1000100512,
@@ -32,11 +32,6 @@
       "tag" : 723396706,
       "name" : "conduit 3",
       "class" : "LCLStageToolsConduitRenderer"
-    },
-    {
-      "tag" : 120409912,
-      "name" : "Slides",
-      "class" : "LCLStageToolsMovieStreamSource"
     },
     {
       "tag" : 1541302215,
