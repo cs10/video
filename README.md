@@ -1,5 +1,3 @@
-video
-=====
+# Best Practices for MOOC Video
 
-
-http://github.com/cs10/video/zipball/master/
+This is a collection of tools and resources from our demo at Learning @ Scale 2014.
