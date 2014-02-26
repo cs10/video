@@ -1,0 +1,54 @@
+{
+  "applicationVersionInt" : 800,
+  "preferRenderSpeedToPrecision" : false,
+  "defaultRenderHeight" : 1080,
+  "streamPatchNodeInfo" : [
+    {
+      "tag" : 120409912,
+      "name" : "Slides",
+      "class" : "LCLStageToolsMovieStreamSource"
+    },
+    {
+      "tag" : 1000100512,
+      "name" : "conduit",
+      "class" : "LCLStageToolsConduitRenderer"
+    },
+    {
+      "tag" : 1541302215,
+      "name" : "display",
+      "class" : "LCLStageToolsMultiPresenter"
+    },
+    {
+      "tag" : 631506474,
+      "name" : "source 2",
+      "class" : "LQDeckLinkCaptureStreamSource"
+    },
+    {
+      "tag" : 192305122,
+      "name" : "source 3",
+      "class" : "LCLStageToolsMovieStreamSource"
+    },
+    {
+      "tag" : 1635899091,
+      "name" : "source",
+      "class" : "LQDeckLinkCaptureStreamSource"
+    },
+    {
+      "tag" : 2115692160,
+      "name" : "conduit 2",
+      "class" : "LCLStageToolsConduitRenderer"
+    },
+    {
+      "tag" : 723396706,
+      "name" : "conduit 3",
+      "class" : "LCLStageToolsConduitRenderer"
+    }
+  ],
+  "defaultRenderWidth" : 1920,
+  "preferRenderNoVSync" : false,
+  "outputSettings" : {
+    "screenIndex" : 2
+  },
+  "scriptAssetNames" : {},
+  "defaultTimebase" : 60
+}
