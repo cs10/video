@@ -4,14 +4,39 @@
   "defaultRenderHeight" : 1080,
   "streamPatchNodeInfo" : [
     {
-      "tag" : 120409912,
-      "name" : "Slides",
+      "tag" : 192305122,
+      "name" : "source 3",
       "class" : "LCLStageToolsMovieStreamSource"
+    },
+    {
+      "tag" : 1222784554,
+      "name" : "main background",
+      "class" : "LCLStageToolsMovieStreamSource"
+    },
+    {
+      "tag" : 1825717503,
+      "name" : "source 4",
+      "class" : "LQQTKitCaptureStreamSource"
     },
     {
       "tag" : 1000100512,
       "name" : "conduit",
       "class" : "LCLStageToolsConduitRenderer"
+    },
+    {
+      "tag" : 2115692160,
+      "name" : "slide mask",
+      "class" : "LCLStageToolsConduitRenderer"
+    },
+    {
+      "tag" : 723396706,
+      "name" : "conduit 3",
+      "class" : "LCLStageToolsConduitRenderer"
+    },
+    {
+      "tag" : 120409912,
+      "name" : "Slides",
+      "class" : "LCLStageToolsMovieStreamSource"
     },
     {
       "tag" : 1541302215,
@@ -24,31 +49,26 @@
       "class" : "LQDeckLinkCaptureStreamSource"
     },
     {
-      "tag" : 192305122,
-      "name" : "source 3",
-      "class" : "LCLStageToolsMovieStreamSource"
-    },
-    {
       "tag" : 1635899091,
       "name" : "source",
       "class" : "LQDeckLinkCaptureStreamSource"
     },
     {
-      "tag" : 2115692160,
-      "name" : "conduit 2",
-      "class" : "LCLStageToolsConduitRenderer"
+      "tag" : 939468574,
+      "name" : "rendcap",
+      "class" : "LCLRenderedCaptureStreamNode"
     },
     {
-      "tag" : 723396706,
-      "name" : "conduit 3",
-      "class" : "LCLStageToolsConduitRenderer"
+      "tag" : 610112517,
+      "name" : "rendcap 2",
+      "class" : "LCLRenderedCaptureStreamNode"
     }
   ],
   "defaultRenderWidth" : 1920,
   "preferRenderNoVSync" : false,
   "outputSettings" : {
-    "screenIndex" : 2
+    "screenIndex" : 1
   },
   "scriptAssetNames" : {},
-  "defaultTimebase" : 60
+  "defaultTimebase" : 23.97602397602398
 }
