@@ -2,7 +2,7 @@ source: .
 destination: ./_site
 # A blank URL breaks the XML escape tag in sitemap
 # url: http://0.0.0.0:4000
-url: cs10.github.io/video
+url: http://cs10.github.io/video
 
 timezone: America/Los_Angeles
 
