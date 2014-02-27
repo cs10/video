@@ -14,9 +14,6 @@ a:hover {
 }
 
 img {
-    /*-webkit-box-reflect: below 2px -webkit-gradient(
-        linear, left top, left bottom, from(transparent),
-        color-stop(.8, transparent), to(rgba(255,255,255,0.20)));*/
     -webkit-box-reflect: below 2px -webkit-linear-gradient(top,
             transparent, transparent .8, rgba(255,255,255,0.20));
     -webkit-border-radius: 6px;
@@ -146,6 +143,11 @@ p { text-indent: 1.4em; }
     text-align: center;
 }
 
+iframe {
+  width: 100%;
+  border: 0;
+  height: 5000px;
+}
 .footer {
     text-align: center;
     position: static;
