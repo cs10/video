@@ -1,6 +1,6 @@
 /* Fixes for deprecated tags. */
-.strong, strong { font-weight: bold; }
-.em, em { font-style: italic; }
+.strong { font-weight: bold; }
+.em { font-style: italic; }
 
 a,
 a:visited {
@@ -43,7 +43,7 @@ body {
     padding: 0;
 }
 
-h1, h2, h3, h5, h6 {
+h1, h3, h5, h6 {
     font-family: 'Cardo', 'Times', serif;
     font-weight: 300;
     color: #666;
@@ -61,7 +61,7 @@ h3 {
     margin-bottom: .8em;
 }
 
-h4 { /* Post Titles */
+h2 { /* Post Titles */
     font-size: 24px; /* FIXME */
     font-weight: 300;
     margin-bottom: .4em;
@@ -145,6 +145,7 @@ p { text-indent: 1.4em; }
     float: right;
     text-align: center;
 }
+
 .footer {
     text-align: center;
     position: static;
@@ -155,7 +156,6 @@ p { text-indent: 1.4em; }
     border-top: 1px dashed #ccc;
     float: left;
 }
-.addthis_toolbox { margin: 0 0 1em 0; }
 
 .article {
     text-align: left;
@@ -234,20 +234,6 @@ p { text-indent: 1.4em; }
     max-height: 640px;
 }
 
-.end-matter {
-    margin: 0px;
-    font-size: 70%;
-    font-weight: 600;
-    text-indent: 0em;
-}
-
-#pagination {
-    border: 0px;
-    width: 100%;
-    font-size: 80%;
-}
-
-
 .left {
     text-align: left;
     list-style: none;
@@ -281,16 +267,4 @@ td .right:after {
     font-size: 170%;
     line-height: 50%;
     vertical-align: -.15em;
-}
-
-.change-log h4 {
-    font-size: 1.1em;
-    font-weight: 200;
-    margin: .1em;
-    font-family: 'Helvetica  Neue', 'Helvetica','Cantarell', arial, sans-serif;
-}
-.change-log ul {
-    font-family: 'Helvetica  Neue', 'Helvetica','Cantarell', arial, sans-serif;
-    text-indent: 1em;
-    margin: .2em;
 }
