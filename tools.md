@@ -10,19 +10,27 @@ by budget along with some useful extra items.
 
 ***
 ## Low Budget Setup
+<br />
+<br />
 
 
 ***
 ## Large Budget Setup
-<a type="amzn" asin="B007FGYZFI">5D Mark III</a>
+* <a type="amzn" asin="B007FGYZFI">5D Mark III</a>
+<br />
+<br />
 
 
 ***
 ## Software
+<br />
+<br />
 
 
 ***
 ## Other Cool Tools
+<br />
+<br />
 
 
 ***
