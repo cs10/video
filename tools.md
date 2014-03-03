@@ -45,6 +45,7 @@ by budget along with some useful extra items.
 ***
 ## Large Budget Setup
 * <a type="amzn" asin="B007FGYZFI">5D Mark III</a>
+* <a type="bhphoto" data-sku="839220-REG">Canon EOS C300</a>
 <br />
 <br />
 
