@@ -8,12 +8,23 @@ title: Our Tools
 Here's links on Amazon (and elsewhere) to a bunch of tools that we use, separated
 by budget along with some useful extra items. 
 
+***
 ## Low Budget Setup
 
+
+***
 ## Large Budget Setup
 <a type="amzn" asin="B007FGYZFI">5D Mark III</a>
 
+
+***
 ## Software
 
+
+***
 ## Other Cool Tools
+
+
+***
+
 
