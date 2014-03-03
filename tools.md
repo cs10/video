@@ -1,6 +1,34 @@
 ---
 layout: default
 title: Our Tools
+amzn: &tag=micbalpho-20
+appl: &at=1l3v8Vb
+bpho: KBID/10801
+low:
+    - name:
+      amzn:
+      bpho:
+      desc:
+    - name:
+      amzn:
+      bpho:
+      desc:
+high:
+    - name: Canon 5D Mark III
+      amzn:
+      bpho:
+      desc:
+    - name: Canon 70-200mm f/2.8L IS
+      amzn:
+      bpho:
+      desc:
+mas:
+    - name: Final Cut Pro X
+      link: https://itunes.apple.com/us/app/final-cut-pro/id424389933?mt=12
+      desc:
+    - name:
+      link:
+      desc:
 ---
 
 # Tools
