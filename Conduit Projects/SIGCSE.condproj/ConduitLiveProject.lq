@@ -14,9 +14,9 @@
       "class" : "LCLStageToolsMovieStreamSource"
     },
     {
-      "tag" : 120409912,
-      "name" : "Slides",
-      "class" : "LCLStageToolsMovieStreamSource"
+      "tag" : 1635899091,
+      "name" : "source",
+      "class" : "LQDeckLinkCaptureStreamSource"
     },
     {
       "tag" : 1000100512,
@@ -34,6 +34,11 @@
       "class" : "LCLStageToolsConduitRenderer"
     },
     {
+      "tag" : 120409912,
+      "name" : "Slides",
+      "class" : "LCLStageToolsMovieStreamSource"
+    },
+    {
       "tag" : 1541302215,
       "name" : "display",
       "class" : "LCLStageToolsMultiPresenter"
@@ -41,11 +46,6 @@
     {
       "tag" : 631506474,
       "name" : "source 2",
-      "class" : "LQDeckLinkCaptureStreamSource"
-    },
-    {
-      "tag" : 1635899091,
-      "name" : "source",
       "class" : "LQDeckLinkCaptureStreamSource"
     },
     {

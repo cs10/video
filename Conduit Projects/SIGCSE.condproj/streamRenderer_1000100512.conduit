@@ -11,7 +11,7 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>218</integer>
+				<integer>231</integer>
 			</dict>
 			<key>PixMathTree::allNodes</key>
 			<dict>
@@ -21,17 +21,17 @@
 			<key>PixMathTree::buildVersion</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>216</integer>
+				<integer>229</integer>
 			</dict>
 			<key>PixMathTree::centerPoint</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>215</integer>
+				<integer>228</integer>
 			</dict>
 			<key>PixMathTree::fileFormatVersion</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>217</integer>
+				<integer>230</integer>
 			</dict>
 			<key>PixMathTree::globalScaleFactor</key>
 			<real>1.3999999999999999</real>
@@ -43,24 +43,24 @@
 			<key>PixMathTree::liveOutput</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>4</integer>
+				<integer>0</integer>
 			</dict>
 			<key>PixMathTree::name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>211</integer>
+				<integer>224</integer>
 			</dict>
 			<key>PixMathTree::outputChMask_i</key>
 			<integer>0</integer>
 			<key>PixMathTree::pubInterface</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>214</integer>
+				<integer>227</integer>
 			</dict>
 			<key>PixMathTree::pubMetadata</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>212</integer>
+				<integer>225</integer>
 			</dict>
 		</dict>
 		<dict>
@@ -114,31 +114,31 @@
 				<integer>6</integer>
 			</dict>
 		</dict>
-		<string>output</string>
+		<string>color</string>
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>183</integer>
+				<integer>32</integer>
 			</dict>
 			<key>PixMathNode::appearanceFlags</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>46</integer>
+				<integer>29</integer>
 			</dict>
 			<key>PixMathNode::appearanceFlagsInt</key>
 			<integer>0</integer>
 			<key>PixMathNode::centerPoint</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>181</integer>
+				<integer>30</integer>
 			</dict>
 			<key>PixMathNode::connectionType</key>
 			<integer>0</integer>
 			<key>PixMathNode::inputPorts</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>167</integer>
+				<integer>14</integer>
 			</dict>
 			<key>PixMathNode::isBypassed</key>
 			<false/>
@@ -147,31 +147,31 @@
 			<key>PixMathNode::name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>180</integer>
+				<integer>28</integer>
 			</dict>
 			<key>PixMathNode::nodeType</key>
 			<integer>4</integer>
 			<key>PixMathNode::originPoint</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>182</integer>
+				<integer>31</integer>
 			</dict>
 			<key>PixMathNode::outputPorts</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>166</integer>
+				<integer>12</integer>
 			</dict>
 			<key>PixMathNode::outputsFloat</key>
 			<false/>
 			<key>PixMathNode::parameters</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>168</integer>
+				<integer>21</integer>
 			</dict>
 			<key>PixMathNode::scaleFactor</key>
 			<real>1</real>
 			<key>PixMathNode::tag</key>
-			<integer>1812659858</integer>
+			<integer>1447188592</integer>
 		</dict>
 		<dict>
 			<key>$class</key>
@@ -219,158 +219,82 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>44</integer>
+				<integer>27</integer>
 			</dict>
 			<key>NS.objects</key>
 			<array>
-				<dict>
-					<key>CF$UID</key>
-					<integer>12</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>50</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>21</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>19</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>63</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>27</integer>
-				</dict>
 				<dict>
 					<key>CF$UID</key>
 					<integer>6</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>55</integer>
+					<integer>33</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>60</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>77</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>102</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>71</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>40</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>65</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>19</integer>
 				</dict>
 			</array>
 		</dict>
 		<dict>
 			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>49</integer>
-			</dict>
-			<key>PixMathNode::appearanceFlags</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>46</integer>
-			</dict>
-			<key>PixMathNode::appearanceFlagsInt</key>
-			<integer>0</integer>
-			<key>PixMathNode::centerPoint</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>47</integer>
-			</dict>
-			<key>PixMathNode::connectionType</key>
-			<integer>2</integer>
-			<key>PixMathNode::inputPorts</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>23</integer>
-			</dict>
-			<key>PixMathNode::isBypassed</key>
-			<false/>
-			<key>PixMathNode::isNoOp</key>
-			<false/>
-			<key>PixMathNode::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>45</integer>
-			</dict>
-			<key>PixMathNode::nodeType</key>
-			<integer>4</integer>
-			<key>PixMathNode::originPoint</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>48</integer>
-			</dict>
-			<key>PixMathNode::outputPorts</key>
 			<dict>
 				<key>CF$UID</key>
 				<integer>13</integer>
 			</dict>
-			<key>PixMathNode::outputsFloat</key>
-			<false/>
-			<key>PixMathNode::parameters</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>30</integer>
-			</dict>
-			<key>PixMathNode::scaleFactor</key>
-			<real>1</real>
-			<key>PixMathNode::tag</key>
-			<integer>1049872733</integer>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>22</integer>
-			</dict>
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>14</integer>
+					<integer>4</integer>
 				</dict>
 			</array>
 		</dict>
 		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>9</integer>
-			</dict>
-			<key>PixMathOutput::connectedInputs</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>16</integer>
-			</dict>
-			<key>PixMathOutput::dataType</key>
-			<integer>2</integer>
-			<key>PixMathOutput::index</key>
-			<integer>0</integer>
-			<key>PixMathOutput::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>15</integer>
-			</dict>
-			<key>PixMathOutput::ownerNode</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>12</integer>
-			</dict>
+			<key>$classes</key>
+			<array>
+				<string>NSArray</string>
+				<string>NSObject</string>
+			</array>
+			<key>$classname</key>
+			<string>NSArray</string>
 		</dict>
-		<string>color</string>
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>8</integer>
+				<integer>13</integer>
 			</dict>
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>17</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>20</integer>
+					<integer>15</integer>
 				</dict>
 			</array>
 		</dict>
@@ -383,46 +307,73 @@
 			<key>PixMathInput::connectedOutput</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>14</integer>
+				<integer>17</integer>
 			</dict>
 			<key>PixMathInput::dataType</key>
 			<integer>2</integer>
 			<key>PixMathInput::name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>18</integer>
+				<integer>16</integer>
 			</dict>
 			<key>PixMathInput::ownerNode</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>6</integer>
+			</dict>
+		</dict>
+		<string>input color</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>9</integer>
+			</dict>
+			<key>PixMathOutput::connectedInputs</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>20</integer>
+			</dict>
+			<key>PixMathOutput::dataType</key>
+			<integer>2</integer>
+			<key>PixMathOutput::index</key>
+			<integer>0</integer>
+			<key>PixMathOutput::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>18</integer>
+			</dict>
+			<key>PixMathOutput::ownerNode</key>
 			<dict>
 				<key>CF$UID</key>
 				<integer>19</integer>
 			</dict>
 		</dict>
-		<string>input</string>
+		<string>output</string>
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>122</integer>
+				<integer>223</integer>
 			</dict>
 			<key>PixMathNode::appearanceFlags</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>46</integer>
+				<integer>29</integer>
 			</dict>
 			<key>PixMathNode::appearanceFlagsInt</key>
 			<integer>0</integer>
 			<key>PixMathNode::centerPoint</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>120</integer>
+				<integer>221</integer>
 			</dict>
 			<key>PixMathNode::connectionType</key>
 			<integer>0</integer>
 			<key>PixMathNode::inputPorts</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>94</integer>
+				<integer>207</integer>
 			</dict>
 			<key>PixMathNode::isBypassed</key>
 			<false/>
@@ -431,26 +382,869 @@
 			<key>PixMathNode::name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>119</integer>
+				<integer>220</integer>
 			</dict>
 			<key>PixMathNode::nodeType</key>
 			<integer>4</integer>
 			<key>PixMathNode::originPoint</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>121</integer>
+				<integer>222</integer>
 			</dict>
 			<key>PixMathNode::outputPorts</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>93</integer>
+				<integer>206</integer>
 			</dict>
 			<key>PixMathNode::outputsFloat</key>
 			<false/>
 			<key>PixMathNode::parameters</key>
 			<dict>
 				<key>CF$UID</key>
+				<integer>208</integer>
+			</dict>
+			<key>PixMathNode::scaleFactor</key>
+			<real>1</real>
+			<key>PixMathNode::tag</key>
+			<integer>1812659858</integer>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>8</integer>
+			</dict>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>15</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>27</integer>
+			</dict>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>22</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>25</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>24</integer>
+			</dict>
+			<key>PixMathParameter::floatValue</key>
+			<real>0.0</real>
+			<key>PixMathParameter::input</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>PixMathParameter::max</key>
+			<real>0.0</real>
+			<key>PixMathParameter::min</key>
+			<real>0.0</real>
+			<key>PixMathParameter::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>23</integer>
+			</dict>
+			<key>PixMathParameter::outToFrag</key>
+			<false/>
+			<key>PixMathParameter::owner</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>6</integer>
+			</dict>
+			<key>PixMathParameter::paramType</key>
+			<integer>3</integer>
+			<key>PixMathParameter::requiredHostProps</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<string>Clip to 0-1</string>
+		<dict>
+			<key>$classes</key>
+			<array>
+				<string>PixMathParameter</string>
+				<string>NSObject</string>
+			</array>
+			<key>$classname</key>
+			<string>PixMathParameter</string>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>24</integer>
+			</dict>
+			<key>PixMathParameter::floatValue</key>
+			<real>1</real>
+			<key>PixMathParameter::input</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>PixMathParameter::max</key>
+			<real>0.0</real>
+			<key>PixMathParameter::min</key>
+			<real>0.0</real>
+			<key>PixMathParameter::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>26</integer>
+			</dict>
+			<key>PixMathParameter::outToFrag</key>
+			<false/>
+			<key>PixMathParameter::owner</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>6</integer>
+			</dict>
+			<key>PixMathParameter::paramType</key>
+			<integer>3</integer>
+			<key>PixMathParameter::requiredHostProps</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<string>Clip alpha to 0-1</string>
+		<dict>
+			<key>$classes</key>
+			<array>
+				<string>NSMutableArray</string>
+				<string>NSArray</string>
+				<string>NSObject</string>
+			</array>
+			<key>$classname</key>
+			<string>NSMutableArray</string>
+		</dict>
+		<string>Premultiply</string>
+		<integer>0</integer>
+		<string>{300.00415, 177.56943}</string>
+		<string>{245.00415, 155.56943}</string>
+		<dict>
+			<key>$classes</key>
+			<array>
+				<string>PixMathOpNode_Premultiply</string>
+				<string>PixMathNode</string>
+				<string>NSObject</string>
+			</array>
+			<key>$classname</key>
+			<string>PixMathOpNode_Premultiply</string>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>59</integer>
+			</dict>
+			<key>PixMathNode::appearanceFlags</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>29</integer>
+			</dict>
+			<key>PixMathNode::appearanceFlagsInt</key>
+			<integer>0</integer>
+			<key>PixMathNode::centerPoint</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>57</integer>
+			</dict>
+			<key>PixMathNode::connectionType</key>
+			<integer>0</integer>
+			<key>PixMathNode::inputPorts</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>42</integer>
+			</dict>
+			<key>PixMathNode::isBypassed</key>
+			<false/>
+			<key>PixMathNode::isNoOp</key>
+			<false/>
+			<key>PixMathNode::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>56</integer>
+			</dict>
+			<key>PixMathNode::nodeType</key>
+			<integer>5</integer>
+			<key>PixMathNode::originPoint</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>58</integer>
+			</dict>
+			<key>PixMathNode::outputPorts</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>34</integer>
+			</dict>
+			<key>PixMathNode::outputsFloat</key>
+			<false/>
+			<key>PixMathNode::parameters</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>43</integer>
+			</dict>
+			<key>PixMathNode::scaleFactor</key>
+			<real>1</real>
+			<key>PixMathNode::tag</key>
+			<integer>733766842</integer>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>13</integer>
+			</dict>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>35</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>9</integer>
+			</dict>
+			<key>PixMathOutput::connectedInputs</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>37</integer>
+			</dict>
+			<key>PixMathOutput::dataType</key>
+			<integer>2</integer>
+			<key>PixMathOutput::index</key>
+			<integer>0</integer>
+			<key>PixMathOutput::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>36</integer>
+			</dict>
+			<key>PixMathOutput::ownerNode</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>33</integer>
+			</dict>
+		</dict>
+		<string>image</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>8</integer>
+			</dict>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>38</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>10</integer>
+			</dict>
+			<key>PixMathInput::connectedOutput</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>35</integer>
+			</dict>
+			<key>PixMathInput::connectorNote</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>41</integer>
+			</dict>
+			<key>PixMathInput::connectorNotePos</key>
+			<real>-0.50120764970779419</real>
+			<key>PixMathInput::dataType</key>
+			<integer>2</integer>
+			<key>PixMathInput::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>39</integer>
+			</dict>
+			<key>PixMathInput::ownerNode</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>40</integer>
+			</dict>
+		</dict>
+		<string>input</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>192</integer>
+			</dict>
+			<key>PixMathNode::appearanceFlags</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>29</integer>
+			</dict>
+			<key>PixMathNode::appearanceFlagsInt</key>
+			<integer>0</integer>
+			<key>PixMathNode::centerPoint</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>190</integer>
+			</dict>
+			<key>PixMathNode::connectionType</key>
+			<integer>2</integer>
+			<key>PixMathNode::inputPorts</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>175</integer>
+			</dict>
+			<key>PixMathNode::isBypassed</key>
+			<false/>
+			<key>PixMathNode::isNoOp</key>
+			<false/>
+			<key>PixMathNode::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>189</integer>
+			</dict>
+			<key>PixMathNode::nodeType</key>
+			<integer>4</integer>
+			<key>PixMathNode::originPoint</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>191</integer>
+			</dict>
+			<key>PixMathNode::outputPorts</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>174</integer>
+			</dict>
+			<key>PixMathNode::outputsFloat</key>
+			<false/>
+			<key>PixMathNode::parameters</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>176</integer>
+			</dict>
+			<key>PixMathNode::scaleFactor</key>
+			<real>1</real>
+			<key>PixMathNode::tag</key>
+			<integer>1049872733</integer>
+		</dict>
+		<string>trim empty space / distractions</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>13</integer>
+			</dict>
+			<key>NS.objects</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>27</integer>
+			</dict>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>44</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>24</integer>
+			</dict>
+			<key>PixMathParameter::enumItems</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>46</integer>
+			</dict>
+			<key>PixMathParameter::floatValue</key>
+			<real>0.0</real>
+			<key>PixMathParameter::input</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>PixMathParameter::max</key>
+			<real>0.0</real>
+			<key>PixMathParameter::min</key>
+			<real>0.0</real>
+			<key>PixMathParameter::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>45</integer>
+			</dict>
+			<key>PixMathParameter::outToFrag</key>
+			<false/>
+			<key>PixMathParameter::owner</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>33</integer>
+			</dict>
+			<key>PixMathParameter::paramType</key>
+			<integer>4</integer>
+			<key>PixMathParameter::requiredHostProps</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>PixMathParameter::selEnumItem</key>
+			<integer>1</integer>
+		</dict>
+		<string>Image input</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>13</integer>
+			</dict>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>47</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>48</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>49</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>50</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>51</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>52</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>53</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>54</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>55</integer>
+				</dict>
+			</array>
+		</dict>
+		<string>Not connected</string>
+		<string>Source clip</string>
+		<string>Image 1</string>
+		<string>Image 2</string>
+		<string>Image 3</string>
+		<string>Image 4</string>
+		<string>Image 5</string>
+		<string>Image 6</string>
+		<string>Image 7</string>
+		<string>UltraStud.. Recorder</string>
+		<string>{351.11667, 689.20013}</string>
+		<string>{296.11667, 667.20013}</string>
+		<dict>
+			<key>$classes</key>
+			<array>
+				<string>PixMathTextureSourceNode</string>
+				<string>PixMathNode</string>
+				<string>NSObject</string>
+			</array>
+			<key>$classname</key>
+			<string>PixMathTextureSourceNode</string>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>97</integer>
+			</dict>
+			<key>PixMathNode::appearanceFlags</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>29</integer>
+			</dict>
+			<key>PixMathNode::appearanceFlagsInt</key>
+			<integer>0</integer>
+			<key>PixMathNode::centerPoint</key>
+			<dict>
+				<key>CF$UID</key>
 				<integer>95</integer>
+			</dict>
+			<key>PixMathNode::connectionType</key>
+			<integer>0</integer>
+			<key>PixMathNode::inputPorts</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>66</integer>
+			</dict>
+			<key>PixMathNode::isBypassed</key>
+			<false/>
+			<key>PixMathNode::isNoOp</key>
+			<false/>
+			<key>PixMathNode::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>94</integer>
+			</dict>
+			<key>PixMathNode::nodeType</key>
+			<integer>4</integer>
+			<key>PixMathNode::originPoint</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>96</integer>
+			</dict>
+			<key>PixMathNode::outputPorts</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>61</integer>
+			</dict>
+			<key>PixMathNode::outputsFloat</key>
+			<false/>
+			<key>PixMathNode::parameters</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>79</integer>
+			</dict>
+			<key>PixMathNode::scaleFactor</key>
+			<real>1</real>
+			<key>PixMathNode::tag</key>
+			<integer>1040725860</integer>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>13</integer>
+			</dict>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>62</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>9</integer>
+			</dict>
+			<key>PixMathOutput::connectedInputs</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>63</integer>
+			</dict>
+			<key>PixMathOutput::dataType</key>
+			<integer>2</integer>
+			<key>PixMathOutput::index</key>
+			<integer>0</integer>
+			<key>PixMathOutput::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>5</integer>
+			</dict>
+			<key>PixMathOutput::ownerNode</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>60</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>8</integer>
+			</dict>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>64</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>10</integer>
+			</dict>
+			<key>PixMathInput::connectedOutput</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>62</integer>
+			</dict>
+			<key>PixMathInput::dataType</key>
+			<integer>2</integer>
+			<key>PixMathInput::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>39</integer>
+			</dict>
+			<key>PixMathInput::ownerNode</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>65</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>205</integer>
+			</dict>
+			<key>PixMathNode::appearanceFlags</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>29</integer>
+			</dict>
+			<key>PixMathNode::appearanceFlagsInt</key>
+			<integer>0</integer>
+			<key>PixMathNode::centerPoint</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>203</integer>
+			</dict>
+			<key>PixMathNode::connectionType</key>
+			<integer>0</integer>
+			<key>PixMathNode::inputPorts</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>197</integer>
+			</dict>
+			<key>PixMathNode::isBypassed</key>
+			<false/>
+			<key>PixMathNode::isNoOp</key>
+			<false/>
+			<key>PixMathNode::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>202</integer>
+			</dict>
+			<key>PixMathNode::nodeType</key>
+			<integer>7</integer>
+			<key>PixMathNode::originPoint</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>204</integer>
+			</dict>
+			<key>PixMathNode::outputPorts</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>193</integer>
+			</dict>
+			<key>PixMathNode::outputsFloat</key>
+			<false/>
+			<key>PixMathNode::parameters</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>198</integer>
+			</dict>
+			<key>PixMathNode::scaleFactor</key>
+			<real>1</real>
+			<key>PixMathNode::tag</key>
+			<integer>962196346</integer>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>13</integer>
+			</dict>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>67</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>72</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>10</integer>
+			</dict>
+			<key>PixMathInput::connectedOutput</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>68</integer>
+			</dict>
+			<key>PixMathInput::dataType</key>
+			<integer>2</integer>
+			<key>PixMathInput::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>39</integer>
+			</dict>
+			<key>PixMathInput::ownerNode</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>60</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>9</integer>
+			</dict>
+			<key>PixMathOutput::connectedInputs</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>69</integer>
+			</dict>
+			<key>PixMathOutput::dataType</key>
+			<integer>2</integer>
+			<key>PixMathOutput::index</key>
+			<integer>0</integer>
+			<key>PixMathOutput::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>5</integer>
+			</dict>
+			<key>PixMathOutput::ownerNode</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>40</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>8</integer>
+			</dict>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>67</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>70</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>10</integer>
+			</dict>
+			<key>PixMathInput::connectedOutput</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>68</integer>
+			</dict>
+			<key>PixMathInput::dataType</key>
+			<integer>2</integer>
+			<key>PixMathInput::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>39</integer>
+			</dict>
+			<key>PixMathInput::ownerNode</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>71</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>173</integer>
+			</dict>
+			<key>PixMathNode::appearanceFlags</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>29</integer>
+			</dict>
+			<key>PixMathNode::appearanceFlagsInt</key>
+			<integer>0</integer>
+			<key>PixMathNode::centerPoint</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>171</integer>
+			</dict>
+			<key>PixMathNode::connectionType</key>
+			<integer>0</integer>
+			<key>PixMathNode::inputPorts</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>147</integer>
+			</dict>
+			<key>PixMathNode::isBypassed</key>
+			<false/>
+			<key>PixMathNode::isNoOp</key>
+			<false/>
+			<key>PixMathNode::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>170</integer>
+			</dict>
+			<key>PixMathNode::nodeType</key>
+			<integer>4</integer>
+			<key>PixMathNode::originPoint</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>172</integer>
+			</dict>
+			<key>PixMathNode::outputPorts</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>146</integer>
+			</dict>
+			<key>PixMathNode::outputsFloat</key>
+			<false/>
+			<key>PixMathNode::parameters</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>148</integer>
 			</dict>
 			<key>PixMathNode::scaleFactor</key>
 			<real>1</real>
@@ -466,612 +1260,22 @@
 			<key>PixMathInput::connectedOutput</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>14</integer>
-			</dict>
-			<key>PixMathInput::dataType</key>
-			<integer>2</integer>
-			<key>PixMathInput::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>18</integer>
-			</dict>
-			<key>PixMathInput::ownerNode</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>21</integer>
-			</dict>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>92</integer>
-			</dict>
-			<key>PixMathNode::appearanceFlags</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>46</integer>
-			</dict>
-			<key>PixMathNode::appearanceFlagsInt</key>
-			<integer>0</integer>
-			<key>PixMathNode::centerPoint</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>90</integer>
-			</dict>
-			<key>PixMathNode::connectionType</key>
-			<integer>0</integer>
-			<key>PixMathNode::inputPorts</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>79</integer>
-			</dict>
-			<key>PixMathNode::isBypassed</key>
-			<false/>
-			<key>PixMathNode::isNoOp</key>
-			<false/>
-			<key>PixMathNode::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>89</integer>
-			</dict>
-			<key>PixMathNode::nodeType</key>
-			<integer>7</integer>
-			<key>PixMathNode::originPoint</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>91</integer>
-			</dict>
-			<key>PixMathNode::outputPorts</key>
-			<dict>
-				<key>CF$UID</key>
 				<integer>74</integer>
 			</dict>
-			<key>PixMathNode::outputsFloat</key>
-			<false/>
-			<key>PixMathNode::parameters</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>84</integer>
-			</dict>
-			<key>PixMathNode::scaleFactor</key>
-			<real>1</real>
-			<key>PixMathNode::tag</key>
-			<integer>1051652398</integer>
-		</dict>
-		<dict>
-			<key>$classes</key>
-			<array>
-				<string>NSArray</string>
-				<string>NSObject</string>
-			</array>
-			<key>$classname</key>
-			<string>NSArray</string>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>22</integer>
-			</dict>
-			<key>NS.objects</key>
-			<array>
-				<dict>
-					<key>CF$UID</key>
-					<integer>24</integer>
-				</dict>
-			</array>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>10</integer>
-			</dict>
-			<key>PixMathInput::connectedOutput</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>25</integer>
-			</dict>
-			<key>PixMathInput::connectorNote</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>29</integer>
-			</dict>
-			<key>PixMathInput::connectorNotePos</key>
-			<real>-0.50120764970779419</real>
-			<key>PixMathInput::dataType</key>
-			<integer>2</integer>
-			<key>PixMathInput::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>18</integer>
-			</dict>
-			<key>PixMathInput::ownerNode</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>12</integer>
-			</dict>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>9</integer>
-			</dict>
-			<key>PixMathOutput::connectedInputs</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>28</integer>
-			</dict>
-			<key>PixMathOutput::dataType</key>
-			<integer>2</integer>
-			<key>PixMathOutput::index</key>
-			<integer>0</integer>
-			<key>PixMathOutput::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>26</integer>
-			</dict>
-			<key>PixMathOutput::ownerNode</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>27</integer>
-			</dict>
-		</dict>
-		<string>image</string>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>165</integer>
-			</dict>
-			<key>PixMathNode::appearanceFlags</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>46</integer>
-			</dict>
-			<key>PixMathNode::appearanceFlagsInt</key>
-			<integer>0</integer>
-			<key>PixMathNode::centerPoint</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>163</integer>
-			</dict>
-			<key>PixMathNode::connectionType</key>
-			<integer>0</integer>
-			<key>PixMathNode::inputPorts</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>148</integer>
-			</dict>
-			<key>PixMathNode::isBypassed</key>
-			<false/>
-			<key>PixMathNode::isNoOp</key>
-			<false/>
-			<key>PixMathNode::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>162</integer>
-			</dict>
-			<key>PixMathNode::nodeType</key>
-			<integer>5</integer>
-			<key>PixMathNode::originPoint</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>164</integer>
-			</dict>
-			<key>PixMathNode::outputPorts</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>147</integer>
-			</dict>
-			<key>PixMathNode::outputsFloat</key>
-			<false/>
-			<key>PixMathNode::parameters</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>149</integer>
-			</dict>
-			<key>PixMathNode::scaleFactor</key>
-			<real>1</real>
-			<key>PixMathNode::tag</key>
-			<integer>733766842</integer>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>8</integer>
-			</dict>
-			<key>NS.objects</key>
-			<array>
-				<dict>
-					<key>CF$UID</key>
-					<integer>24</integer>
-				</dict>
-			</array>
-		</dict>
-		<string>trim empty space / distractions</string>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>44</integer>
-			</dict>
-			<key>NS.objects</key>
-			<array>
-				<dict>
-					<key>CF$UID</key>
-					<integer>31</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>35</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>38</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>41</integer>
-				</dict>
-			</array>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>34</integer>
-			</dict>
-			<key>PixMathParameter::floatValue</key>
-			<real>0.25</real>
-			<key>PixMathParameter::input</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>33</integer>
-			</dict>
-			<key>PixMathParameter::max</key>
-			<real>1</real>
-			<key>PixMathParameter::min</key>
-			<real>0.0</real>
-			<key>PixMathParameter::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>32</integer>
-			</dict>
-			<key>PixMathParameter::outToFrag</key>
-			<false/>
-			<key>PixMathParameter::owner</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>12</integer>
-			</dict>
-			<key>PixMathParameter::paramType</key>
-			<integer>1</integer>
-			<key>PixMathParameter::requiredHostProps</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-		</dict>
-		<string>Left</string>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>10</integer>
-			</dict>
-			<key>PixMathInput::connectedOutput</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
 			<key>PixMathInput::dataType</key>
 			<integer>1</integer>
 			<key>PixMathInput::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>32</integer>
-			</dict>
-			<key>PixMathInput::ownerNode</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>31</integer>
-			</dict>
-		</dict>
-		<dict>
-			<key>$classes</key>
-			<array>
-				<string>PixMathParameter</string>
-				<string>NSObject</string>
-			</array>
-			<key>$classname</key>
-			<string>PixMathParameter</string>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>34</integer>
-			</dict>
-			<key>PixMathParameter::floatValue</key>
-			<real>0.20000000298023224</real>
-			<key>PixMathParameter::input</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>37</integer>
-			</dict>
-			<key>PixMathParameter::max</key>
-			<real>1</real>
-			<key>PixMathParameter::min</key>
-			<real>0.0</real>
-			<key>PixMathParameter::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>36</integer>
-			</dict>
-			<key>PixMathParameter::outToFrag</key>
-			<false/>
-			<key>PixMathParameter::owner</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>12</integer>
-			</dict>
-			<key>PixMathParameter::paramType</key>
-			<integer>1</integer>
-			<key>PixMathParameter::requiredHostProps</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-		</dict>
-		<string>Right</string>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>10</integer>
-			</dict>
-			<key>PixMathInput::connectedOutput</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-			<key>PixMathInput::dataType</key>
-			<integer>1</integer>
-			<key>PixMathInput::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>36</integer>
-			</dict>
-			<key>PixMathInput::ownerNode</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>35</integer>
-			</dict>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>34</integer>
-			</dict>
-			<key>PixMathParameter::floatValue</key>
-			<real>0.10000000149011612</real>
-			<key>PixMathParameter::input</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>40</integer>
-			</dict>
-			<key>PixMathParameter::max</key>
-			<real>1</real>
-			<key>PixMathParameter::min</key>
-			<real>0.0</real>
-			<key>PixMathParameter::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>39</integer>
-			</dict>
-			<key>PixMathParameter::outToFrag</key>
-			<false/>
-			<key>PixMathParameter::owner</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>12</integer>
-			</dict>
-			<key>PixMathParameter::paramType</key>
-			<integer>1</integer>
-			<key>PixMathParameter::requiredHostProps</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-		</dict>
-		<string>Top</string>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>10</integer>
-			</dict>
-			<key>PixMathInput::connectedOutput</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-			<key>PixMathInput::dataType</key>
-			<integer>1</integer>
-			<key>PixMathInput::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>39</integer>
-			</dict>
-			<key>PixMathInput::ownerNode</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>38</integer>
-			</dict>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>34</integer>
-			</dict>
-			<key>PixMathParameter::floatValue</key>
-			<real>0.0</real>
-			<key>PixMathParameter::input</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>43</integer>
-			</dict>
-			<key>PixMathParameter::max</key>
-			<real>1</real>
-			<key>PixMathParameter::min</key>
-			<real>0.0</real>
-			<key>PixMathParameter::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>42</integer>
-			</dict>
-			<key>PixMathParameter::outToFrag</key>
-			<false/>
-			<key>PixMathParameter::owner</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>12</integer>
-			</dict>
-			<key>PixMathParameter::paramType</key>
-			<integer>1</integer>
-			<key>PixMathParameter::requiredHostProps</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-		</dict>
-		<string>Bottom</string>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>10</integer>
-			</dict>
-			<key>PixMathInput::connectedOutput</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-			<key>PixMathInput::dataType</key>
-			<integer>1</integer>
-			<key>PixMathInput::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>42</integer>
-			</dict>
-			<key>PixMathInput::ownerNode</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>41</integer>
-			</dict>
-		</dict>
-		<dict>
-			<key>$classes</key>
-			<array>
-				<string>NSMutableArray</string>
-				<string>NSArray</string>
-				<string>NSObject</string>
-			</array>
-			<key>$classname</key>
-			<string>NSMutableArray</string>
-		</dict>
-		<string>Crop</string>
-		<integer>0</integer>
-		<string>{330.67603, 594.47351}</string>
-		<string>{275.67603, 572.47351}</string>
-		<dict>
-			<key>$classes</key>
-			<array>
-				<string>PixMathOpNode_Crop</string>
-				<string>PixMathNode</string>
-				<string>NSObject</string>
-			</array>
-			<key>$classname</key>
-			<string>PixMathOpNode_Crop</string>
-		</dict>
-		<dict>
-			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
 				<integer>73</integer>
 			</dict>
-			<key>PixMathNode::appearanceFlags</key>
+			<key>PixMathInput::ownerNode</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>46</integer>
+				<integer>60</integer>
 			</dict>
-			<key>PixMathNode::appearanceFlagsInt</key>
-			<integer>0</integer>
-			<key>PixMathNode::centerPoint</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>71</integer>
-			</dict>
-			<key>PixMathNode::connectionType</key>
-			<integer>0</integer>
-			<key>PixMathNode::inputPorts</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>57</integer>
-			</dict>
-			<key>PixMathNode::isBypassed</key>
-			<true/>
-			<key>PixMathNode::isNoOp</key>
-			<false/>
-			<key>PixMathNode::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>70</integer>
-			</dict>
-			<key>PixMathNode::nodeType</key>
-			<integer>4</integer>
-			<key>PixMathNode::originPoint</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>72</integer>
-			</dict>
-			<key>PixMathNode::outputPorts</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>51</integer>
-			</dict>
-			<key>PixMathNode::outputsFloat</key>
-			<true/>
-			<key>PixMathNode::parameters</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>64</integer>
-			</dict>
-			<key>PixMathNode::scaleFactor</key>
-			<real>1</real>
-			<key>PixMathNode::tag</key>
-			<integer>1718662058</integer>
 		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>22</integer>
-			</dict>
-			<key>NS.objects</key>
-			<array>
-				<dict>
-					<key>CF$UID</key>
-					<integer>52</integer>
-				</dict>
-			</array>
-		</dict>
+		<string>spill map</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1081,7 +1285,7 @@
 			<key>PixMathOutput::connectedInputs</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>53</integer>
+				<integer>75</integer>
 			</dict>
 			<key>PixMathOutput::dataType</key>
 			<integer>3</integer>
@@ -1090,12 +1294,12 @@
 			<key>PixMathOutput::name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>15</integer>
+				<integer>5</integer>
 			</dict>
 			<key>PixMathOutput::ownerNode</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>50</integer>
+				<integer>71</integer>
 			</dict>
 		</dict>
 		<dict>
@@ -1108,7 +1312,11 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>54</integer>
+					<integer>72</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>76</integer>
 				</dict>
 			</array>
 		</dict>
@@ -1121,52 +1329,52 @@
 			<key>PixMathInput::connectedOutput</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>52</integer>
+				<integer>74</integer>
 			</dict>
 			<key>PixMathInput::connectorNote</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>56</integer>
+				<integer>78</integer>
 			</dict>
 			<key>PixMathInput::connectorNotePos</key>
-			<real>0.32975682616233826</real>
+			<real>0.72790122032165527</real>
 			<key>PixMathInput::dataType</key>
 			<integer>3</integer>
 			<key>PixMathInput::name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>18</integer>
+				<integer>39</integer>
 			</dict>
 			<key>PixMathInput::ownerNode</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>55</integer>
+				<integer>77</integer>
 			</dict>
 		</dict>
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>210</integer>
+				<integer>131</integer>
 			</dict>
 			<key>PixMathNode::appearanceFlags</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>46</integer>
+				<integer>29</integer>
 			</dict>
 			<key>PixMathNode::appearanceFlagsInt</key>
 			<integer>0</integer>
 			<key>PixMathNode::centerPoint</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>208</integer>
+				<integer>129</integer>
 			</dict>
 			<key>PixMathNode::connectionType</key>
 			<integer>1</integer>
 			<key>PixMathNode::inputPorts</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>185</integer>
+				<integer>103</integer>
 			</dict>
 			<key>PixMathNode::isBypassed</key>
 			<false/>
@@ -1175,26 +1383,26 @@
 			<key>PixMathNode::name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>207</integer>
+				<integer>128</integer>
 			</dict>
 			<key>PixMathNode::nodeType</key>
 			<integer>7</integer>
 			<key>PixMathNode::originPoint</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>209</integer>
+				<integer>130</integer>
 			</dict>
 			<key>PixMathNode::outputPorts</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>184</integer>
+				<integer>98</integer>
 			</dict>
 			<key>PixMathNode::outputsFloat</key>
 			<true/>
 			<key>PixMathNode::parameters</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>186</integer>
+				<integer>104</integer>
 			</dict>
 			<key>PixMathNode::scaleFactor</key>
 			<real>1</real>
@@ -1206,458 +1414,7 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>22</integer>
-			</dict>
-			<key>NS.objects</key>
-			<array>
-				<dict>
-					<key>CF$UID</key>
-					<integer>58</integer>
-				</dict>
-			</array>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>10</integer>
-			</dict>
-			<key>PixMathInput::connectedOutput</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>59</integer>
-			</dict>
-			<key>PixMathInput::dataType</key>
-			<integer>3</integer>
-			<key>PixMathInput::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>18</integer>
-			</dict>
-			<key>PixMathInput::ownerNode</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>50</integer>
-			</dict>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>9</integer>
-			</dict>
-			<key>PixMathOutput::connectedInputs</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>60</integer>
-			</dict>
-			<key>PixMathOutput::dataType</key>
-			<integer>3</integer>
-			<key>PixMathOutput::index</key>
-			<integer>0</integer>
-			<key>PixMathOutput::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>15</integer>
-			</dict>
-			<key>PixMathOutput::ownerNode</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>19</integer>
-			</dict>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>8</integer>
-			</dict>
-			<key>NS.objects</key>
-			<array>
-				<dict>
-					<key>CF$UID</key>
-					<integer>61</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>58</integer>
-				</dict>
-			</array>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>10</integer>
-			</dict>
-			<key>PixMathInput::connectedOutput</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>59</integer>
-			</dict>
-			<key>PixMathInput::dataType</key>
-			<integer>1</integer>
-			<key>PixMathInput::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>62</integer>
-			</dict>
-			<key>PixMathInput::ownerNode</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>63</integer>
-			</dict>
-		</dict>
-		<string>spill map</string>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>146</integer>
-			</dict>
-			<key>PixMathNode::appearanceFlags</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>46</integer>
-			</dict>
-			<key>PixMathNode::appearanceFlagsInt</key>
-			<integer>0</integer>
-			<key>PixMathNode::centerPoint</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>144</integer>
-			</dict>
-			<key>PixMathNode::connectionType</key>
-			<integer>0</integer>
-			<key>PixMathNode::inputPorts</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>127</integer>
-			</dict>
-			<key>PixMathNode::isBypassed</key>
-			<false/>
-			<key>PixMathNode::isNoOp</key>
-			<false/>
-			<key>PixMathNode::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>143</integer>
-			</dict>
-			<key>PixMathNode::nodeType</key>
-			<integer>4</integer>
-			<key>PixMathNode::originPoint</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>145</integer>
-			</dict>
-			<key>PixMathNode::outputPorts</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>123</integer>
-			</dict>
-			<key>PixMathNode::outputsFloat</key>
-			<false/>
-			<key>PixMathNode::parameters</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>128</integer>
-			</dict>
-			<key>PixMathNode::scaleFactor</key>
-			<real>1</real>
-			<key>PixMathNode::tag</key>
-			<integer>1838082379</integer>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>44</integer>
-			</dict>
-			<key>NS.objects</key>
-			<array>
-				<dict>
-					<key>CF$UID</key>
-					<integer>65</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>67</integer>
-				</dict>
-			</array>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>34</integer>
-			</dict>
-			<key>PixMathParameter::floatValue</key>
-			<real>0.0</real>
-			<key>PixMathParameter::input</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-			<key>PixMathParameter::max</key>
-			<real>0.0</real>
-			<key>PixMathParameter::min</key>
-			<real>0.0</real>
-			<key>PixMathParameter::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>66</integer>
-			</dict>
-			<key>PixMathParameter::outToFrag</key>
-			<false/>
-			<key>PixMathParameter::owner</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>50</integer>
-			</dict>
-			<key>PixMathParameter::paramType</key>
-			<integer>3</integer>
-			<key>PixMathParameter::requiredHostProps</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-		</dict>
-		<string>Clip to 0-1</string>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>34</integer>
-			</dict>
-			<key>PixMathParameter::floatValue</key>
-			<real>1</real>
-			<key>PixMathParameter::input</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>69</integer>
-			</dict>
-			<key>PixMathParameter::max</key>
-			<real>1</real>
-			<key>PixMathParameter::min</key>
-			<real>0.0</real>
-			<key>PixMathParameter::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>68</integer>
-			</dict>
-			<key>PixMathParameter::outToFrag</key>
-			<false/>
-			<key>PixMathParameter::owner</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>50</integer>
-			</dict>
-			<key>PixMathParameter::paramType</key>
-			<integer>1</integer>
-			<key>PixMathParameter::requiredHostProps</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-		</dict>
-		<string>Effect opacity</string>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>10</integer>
-			</dict>
-			<key>PixMathInput::connectedOutput</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-			<key>PixMathInput::dataType</key>
-			<integer>1</integer>
-			<key>PixMathInput::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>68</integer>
-			</dict>
-			<key>PixMathInput::ownerNode</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>67</integer>
-			</dict>
-		</dict>
-		<string>Invert</string>
-		<string>{461.90344, 468.41324}</string>
-		<string>{406.90344, 446.41324}</string>
-		<dict>
-			<key>$classes</key>
-			<array>
-				<string>PixMathOpNode_Invert</string>
-				<string>PixMathNode</string>
-				<string>NSObject</string>
-			</array>
-			<key>$classname</key>
-			<string>PixMathOpNode_Invert</string>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>22</integer>
-			</dict>
-			<key>NS.objects</key>
-			<array>
-				<dict>
-					<key>CF$UID</key>
-					<integer>75</integer>
-				</dict>
-			</array>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>9</integer>
-			</dict>
-			<key>PixMathOutput::connectedInputs</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>76</integer>
-			</dict>
-			<key>PixMathOutput::dataType</key>
-			<integer>2</integer>
-			<key>PixMathOutput::index</key>
-			<integer>0</integer>
-			<key>PixMathOutput::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>15</integer>
-			</dict>
-			<key>PixMathOutput::ownerNode</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>21</integer>
-			</dict>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>8</integer>
-			</dict>
-			<key>NS.objects</key>
-			<array>
-				<dict>
-					<key>CF$UID</key>
-					<integer>77</integer>
-				</dict>
-			</array>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>10</integer>
-			</dict>
-			<key>PixMathInput::connectedOutput</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>75</integer>
-			</dict>
-			<key>PixMathInput::connectorNote</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>78</integer>
-			</dict>
-			<key>PixMathInput::connectorNotePos</key>
-			<real>-0.92677277326583862</real>
-			<key>PixMathInput::dataType</key>
-			<integer>2</integer>
-			<key>PixMathInput::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>18</integer>
-			</dict>
-			<key>PixMathInput::ownerNode</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>63</integer>
-			</dict>
-		</dict>
-		<string>help clean fringing</string>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>22</integer>
-			</dict>
-			<key>NS.objects</key>
-			<array>
-				<dict>
-					<key>CF$UID</key>
-					<integer>20</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>80</integer>
-				</dict>
-			</array>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>10</integer>
-			</dict>
-			<key>PixMathInput::connectedOutput</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>82</integer>
-			</dict>
-			<key>PixMathInput::dataType</key>
-			<integer>2</integer>
-			<key>PixMathInput::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>81</integer>
-			</dict>
-			<key>PixMathInput::ownerNode</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>21</integer>
-			</dict>
-		</dict>
-		<string>matte</string>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>9</integer>
-			</dict>
-			<key>PixMathOutput::connectedInputs</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>83</integer>
-			</dict>
-			<key>PixMathOutput::dataType</key>
-			<integer>3</integer>
-			<key>PixMathOutput::index</key>
-			<integer>0</integer>
-			<key>PixMathOutput::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>15</integer>
-			</dict>
-			<key>PixMathOutput::ownerNode</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>55</integer>
-			</dict>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>8</integer>
+				<integer>27</integer>
 			</dict>
 			<key>NS.objects</key>
 			<array>
@@ -1665,247 +1422,33 @@
 					<key>CF$UID</key>
 					<integer>80</integer>
 				</dict>
-			</array>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>44</integer>
-			</dict>
-			<key>NS.objects</key>
-			<array>
-				<dict>
-					<key>CF$UID</key>
-					<integer>85</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>87</integer>
-				</dict>
-			</array>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>34</integer>
-			</dict>
-			<key>PixMathParameter::floatValue</key>
-			<real>0.0</real>
-			<key>PixMathParameter::input</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-			<key>PixMathParameter::max</key>
-			<real>0.0</real>
-			<key>PixMathParameter::min</key>
-			<real>0.0</real>
-			<key>PixMathParameter::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>86</integer>
-			</dict>
-			<key>PixMathParameter::outToFrag</key>
-			<false/>
-			<key>PixMathParameter::owner</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>21</integer>
-			</dict>
-			<key>PixMathParameter::paramType</key>
-			<integer>3</integer>
-			<key>PixMathParameter::requiredHostProps</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-		</dict>
-		<string>Clip RGB to 0-1</string>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>34</integer>
-			</dict>
-			<key>PixMathParameter::floatValue</key>
-			<real>1</real>
-			<key>PixMathParameter::input</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-			<key>PixMathParameter::max</key>
-			<real>0.0</real>
-			<key>PixMathParameter::min</key>
-			<real>0.0</real>
-			<key>PixMathParameter::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>88</integer>
-			</dict>
-			<key>PixMathParameter::outToFrag</key>
-			<false/>
-			<key>PixMathParameter::owner</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>21</integer>
-			</dict>
-			<key>PixMathParameter::paramType</key>
-			<integer>3</integer>
-			<key>PixMathParameter::requiredHostProps</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-		</dict>
-		<string>Clip alpha to 0-1</string>
-		<string>Set Matte</string>
-		<string>{364.68924, 316.70126}</string>
-		<string>{309.68924, 294.70126}</string>
-		<dict>
-			<key>$classes</key>
-			<array>
-				<string>PixMathOpNode_SetMatte</string>
-				<string>PixMathNode</string>
-				<string>NSObject</string>
-			</array>
-			<key>$classname</key>
-			<string>PixMathOpNode_SetMatte</string>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>22</integer>
-			</dict>
-			<key>NS.objects</key>
-			<array>
-				<dict>
-					<key>CF$UID</key>
-					<integer>59</integer>
-				</dict>
-			</array>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>22</integer>
-			</dict>
-			<key>NS.objects</key>
-			<array>
-				<dict>
-					<key>CF$UID</key>
-					<integer>17</integer>
-				</dict>
-			</array>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>44</integer>
-			</dict>
-			<key>NS.objects</key>
-			<array>
-				<dict>
-					<key>CF$UID</key>
-					<integer>96</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>100</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>105</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>113</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>116</integer>
-				</dict>
-			</array>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>34</integer>
-			</dict>
-			<key>PixMathParameter::enumItems</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>98</integer>
-			</dict>
-			<key>PixMathParameter::floatValue</key>
-			<real>0.0</real>
-			<key>PixMathParameter::input</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-			<key>PixMathParameter::max</key>
-			<real>0.0</real>
-			<key>PixMathParameter::min</key>
-			<real>0.0</real>
-			<key>PixMathParameter::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>97</integer>
-			</dict>
-			<key>PixMathParameter::outToFrag</key>
-			<false/>
-			<key>PixMathParameter::owner</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>19</integer>
-			</dict>
-			<key>PixMathParameter::paramType</key>
-			<integer>4</integer>
-			<key>PixMathParameter::requiredHostProps</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-			<key>PixMathParameter::selEnumItem</key>
-			<integer>0</integer>
-		</dict>
-		<string>View</string>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>22</integer>
-			</dict>
-			<key>NS.objects</key>
-			<array>
 				<dict>
 					<key>CF$UID</key>
 					<integer>81</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>99</integer>
+					<integer>83</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>85</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>88</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>91</integer>
 				</dict>
 			</array>
 		</dict>
-		<string>composite</string>
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>34</integer>
-			</dict>
-			<key>PixMathParameter::enumItems</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>102</integer>
+				<integer>24</integer>
 			</dict>
 			<key>PixMathParameter::floatValue</key>
 			<real>0.0</real>
@@ -1921,421 +1464,14 @@
 			<key>PixMathParameter::name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>101</integer>
+				<integer>23</integer>
 			</dict>
 			<key>PixMathParameter::outToFrag</key>
 			<false/>
 			<key>PixMathParameter::owner</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>19</integer>
-			</dict>
-			<key>PixMathParameter::paramType</key>
-			<integer>4</integer>
-			<key>PixMathParameter::requiredHostProps</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-			<key>PixMathParameter::selEnumItem</key>
-			<integer>0</integer>
-		</dict>
-		<string>Screen color</string>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>22</integer>
-			</dict>
-			<key>NS.objects</key>
-			<array>
-				<dict>
-					<key>CF$UID</key>
-					<integer>103</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>104</integer>
-				</dict>
-			</array>
-		</dict>
-		<string>green</string>
-		<string>blue</string>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>34</integer>
-			</dict>
-			<key>PixMathParameter::enumItems</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>107</integer>
-			</dict>
-			<key>PixMathParameter::floatValue</key>
-			<real>0.0</real>
-			<key>PixMathParameter::input</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-			<key>PixMathParameter::max</key>
-			<real>0.0</real>
-			<key>PixMathParameter::min</key>
-			<real>0.0</real>
-			<key>PixMathParameter::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>106</integer>
-			</dict>
-			<key>PixMathParameter::outToFrag</key>
-			<false/>
-			<key>PixMathParameter::owner</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>19</integer>
-			</dict>
-			<key>PixMathParameter::paramType</key>
-			<integer>4</integer>
-			<key>PixMathParameter::requiredHostProps</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-			<key>PixMathParameter::selEnumItem</key>
-			<integer>4</integer>
-		</dict>
-		<string>Subtract</string>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>22</integer>
-			</dict>
-			<key>NS.objects</key>
-			<array>
-				<dict>
-					<key>CF$UID</key>
-					<integer>108</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>109</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>110</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>111</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>112</integer>
-				</dict>
-			</array>
-		</dict>
-		<string>2nd channel (greenscreen: red, bluescreen: green)</string>
-		<string>3rd channel (greenscreen: blue, bluescreen: red)</string>
-		<string>average of 2nd and 3rd channels</string>
-		<string>max of 2nd and 3rd channels</string>
-		<string>min of 2nd and 3rd channels</string>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>34</integer>
-			</dict>
-			<key>PixMathParameter::floatValue</key>
-			<real>0.36161366105079651</real>
-			<key>PixMathParameter::input</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>115</integer>
-			</dict>
-			<key>PixMathParameter::max</key>
-			<real>1</real>
-			<key>PixMathParameter::min</key>
-			<real>0.0</real>
-			<key>PixMathParameter::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>114</integer>
-			</dict>
-			<key>PixMathParameter::outToFrag</key>
-			<false/>
-			<key>PixMathParameter::owner</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>19</integer>
-			</dict>
-			<key>PixMathParameter::paramType</key>
-			<integer>1</integer>
-			<key>PixMathParameter::requiredHostProps</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-		</dict>
-		<string>Input black</string>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>10</integer>
-			</dict>
-			<key>PixMathInput::connectedOutput</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-			<key>PixMathInput::dataType</key>
-			<integer>1</integer>
-			<key>PixMathInput::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>114</integer>
-			</dict>
-			<key>PixMathInput::ownerNode</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>113</integer>
-			</dict>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>34</integer>
-			</dict>
-			<key>PixMathParameter::floatValue</key>
-			<real>0.25590506196022034</real>
-			<key>PixMathParameter::input</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>118</integer>
-			</dict>
-			<key>PixMathParameter::max</key>
-			<real>1</real>
-			<key>PixMathParameter::min</key>
-			<real>0.0</real>
-			<key>PixMathParameter::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>117</integer>
-			</dict>
-			<key>PixMathParameter::outToFrag</key>
-			<false/>
-			<key>PixMathParameter::owner</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>19</integer>
-			</dict>
-			<key>PixMathParameter::paramType</key>
-			<integer>1</integer>
-			<key>PixMathParameter::requiredHostProps</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-		</dict>
-		<string>Input white</string>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>10</integer>
-			</dict>
-			<key>PixMathInput::connectedOutput</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-			<key>PixMathInput::dataType</key>
-			<integer>1</integer>
-			<key>PixMathInput::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>117</integer>
-			</dict>
-			<key>PixMathInput::ownerNode</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>116</integer>
-			</dict>
-		</dict>
-		<string>Color Difference Key</string>
-		<string>{614.52991, 538.61322}</string>
-		<string>{559.52991, 516.61322}</string>
-		<dict>
-			<key>$classes</key>
-			<array>
-				<string>PixMathOpNode_ColorDifferenceKeyer</string>
-				<string>PixMathNode</string>
-				<string>NSObject</string>
-			</array>
-			<key>$classname</key>
-			<string>PixMathOpNode_ColorDifferenceKeyer</string>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>22</integer>
-			</dict>
-			<key>NS.objects</key>
-			<array>
-				<dict>
-					<key>CF$UID</key>
-					<integer>124</integer>
-				</dict>
-			</array>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>9</integer>
-			</dict>
-			<key>PixMathOutput::connectedInputs</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>125</integer>
-			</dict>
-			<key>PixMathOutput::dataType</key>
-			<integer>2</integer>
-			<key>PixMathOutput::index</key>
-			<integer>0</integer>
-			<key>PixMathOutput::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>15</integer>
-			</dict>
-			<key>PixMathOutput::ownerNode</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>63</integer>
-			</dict>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>8</integer>
-			</dict>
-			<key>NS.objects</key>
-			<array>
-				<dict>
-					<key>CF$UID</key>
-					<integer>126</integer>
-				</dict>
-			</array>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>10</integer>
-			</dict>
-			<key>PixMathInput::connectedOutput</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>124</integer>
-			</dict>
-			<key>PixMathInput::dataType</key>
-			<integer>2</integer>
-			<key>PixMathInput::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>18</integer>
-			</dict>
-			<key>PixMathInput::ownerNode</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>6</integer>
-			</dict>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>22</integer>
-			</dict>
-			<key>NS.objects</key>
-			<array>
-				<dict>
-					<key>CF$UID</key>
-					<integer>77</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>61</integer>
-				</dict>
-			</array>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>44</integer>
-			</dict>
-			<key>NS.objects</key>
-			<array>
-				<dict>
-					<key>CF$UID</key>
-					<integer>129</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>130</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>132</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>134</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>137</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>140</integer>
-				</dict>
-			</array>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>34</integer>
-			</dict>
-			<key>PixMathParameter::floatValue</key>
-			<real>0.0</real>
-			<key>PixMathParameter::input</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-			<key>PixMathParameter::max</key>
-			<real>0.0</real>
-			<key>PixMathParameter::min</key>
-			<real>0.0</real>
-			<key>PixMathParameter::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>66</integer>
-			</dict>
-			<key>PixMathParameter::outToFrag</key>
-			<false/>
-			<key>PixMathParameter::owner</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>63</integer>
+				<integer>60</integer>
 			</dict>
 			<key>PixMathParameter::paramType</key>
 			<integer>3</integer>
@@ -2349,7 +1485,7 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>34</integer>
+				<integer>24</integer>
 			</dict>
 			<key>PixMathParameter::floatValue</key>
 			<real>0.0</real>
@@ -2365,14 +1501,14 @@
 			<key>PixMathParameter::name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>131</integer>
+				<integer>82</integer>
 			</dict>
 			<key>PixMathParameter::outToFrag</key>
 			<false/>
 			<key>PixMathParameter::owner</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>63</integer>
+				<integer>60</integer>
 			</dict>
 			<key>PixMathParameter::paramType</key>
 			<integer>3</integer>
@@ -2387,7 +1523,7 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>34</integer>
+				<integer>24</integer>
 			</dict>
 			<key>PixMathParameter::floatValue</key>
 			<real>0.0</real>
@@ -2403,14 +1539,14 @@
 			<key>PixMathParameter::name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>133</integer>
+				<integer>84</integer>
 			</dict>
 			<key>PixMathParameter::outToFrag</key>
 			<false/>
 			<key>PixMathParameter::owner</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>63</integer>
+				<integer>60</integer>
 			</dict>
 			<key>PixMathParameter::paramType</key>
 			<integer>3</integer>
@@ -2425,14 +1561,14 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>34</integer>
+				<integer>24</integer>
 			</dict>
 			<key>PixMathParameter::floatValue</key>
-			<real>-0.10000000149011612</real>
+			<real>-0.10430997610092163</real>
 			<key>PixMathParameter::input</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>136</integer>
+				<integer>87</integer>
 			</dict>
 			<key>PixMathParameter::max</key>
 			<real>1</real>
@@ -2441,14 +1577,14 @@
 			<key>PixMathParameter::name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>135</integer>
+				<integer>86</integer>
 			</dict>
 			<key>PixMathParameter::outToFrag</key>
 			<false/>
 			<key>PixMathParameter::owner</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>63</integer>
+				<integer>60</integer>
 			</dict>
 			<key>PixMathParameter::paramType</key>
 			<integer>1</integer>
@@ -2475,26 +1611,26 @@
 			<key>PixMathInput::name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>135</integer>
+				<integer>86</integer>
 			</dict>
 			<key>PixMathInput::ownerNode</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>134</integer>
+				<integer>85</integer>
 			</dict>
 		</dict>
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>34</integer>
+				<integer>24</integer>
 			</dict>
 			<key>PixMathParameter::floatValue</key>
-			<real>-0.070000000298023224</real>
+			<real>-0.070622086524963379</real>
 			<key>PixMathParameter::input</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>139</integer>
+				<integer>90</integer>
 			</dict>
 			<key>PixMathParameter::max</key>
 			<real>1</real>
@@ -2503,14 +1639,14 @@
 			<key>PixMathParameter::name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>138</integer>
+				<integer>89</integer>
 			</dict>
 			<key>PixMathParameter::outToFrag</key>
 			<false/>
 			<key>PixMathParameter::owner</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>63</integer>
+				<integer>60</integer>
 			</dict>
 			<key>PixMathParameter::paramType</key>
 			<integer>1</integer>
@@ -2537,26 +1673,26 @@
 			<key>PixMathInput::name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>138</integer>
+				<integer>89</integer>
 			</dict>
 			<key>PixMathInput::ownerNode</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>137</integer>
+				<integer>88</integer>
 			</dict>
 		</dict>
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>34</integer>
+				<integer>24</integer>
 			</dict>
 			<key>PixMathParameter::floatValue</key>
-			<real>0.0</real>
+			<real>-0.032098829746246338</real>
 			<key>PixMathParameter::input</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>142</integer>
+				<integer>93</integer>
 			</dict>
 			<key>PixMathParameter::max</key>
 			<real>1</real>
@@ -2565,14 +1701,14 @@
 			<key>PixMathParameter::name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>141</integer>
+				<integer>92</integer>
 			</dict>
 			<key>PixMathParameter::outToFrag</key>
 			<false/>
 			<key>PixMathParameter::owner</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>63</integer>
+				<integer>60</integer>
 			</dict>
 			<key>PixMathParameter::paramType</key>
 			<integer>1</integer>
@@ -2599,17 +1735,17 @@
 			<key>PixMathInput::name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>141</integer>
+				<integer>92</integer>
 			</dict>
 			<key>PixMathInput::ownerNode</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>140</integer>
+				<integer>91</integer>
 			</dict>
 		</dict>
 		<string>Unspill</string>
-		<string>{453.30341, 190.39999}</string>
-		<string>{398.30341, 168.39999}</string>
+		<string>{335.00494, 464.45242}</string>
+		<string>{280.00494, 442.45242}</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -2624,13 +1760,13 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>22</integer>
+				<integer>13</integer>
 			</dict>
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>25</integer>
+					<integer>99</integer>
 				</dict>
 			</array>
 		</dict>
@@ -2638,22 +1774,39 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>22</integer>
+				<integer>9</integer>
 			</dict>
-			<key>NS.objects</key>
-			<array/>
+			<key>PixMathOutput::connectedInputs</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>100</integer>
+			</dict>
+			<key>PixMathOutput::dataType</key>
+			<integer>3</integer>
+			<key>PixMathOutput::index</key>
+			<integer>0</integer>
+			<key>PixMathOutput::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>5</integer>
+			</dict>
+			<key>PixMathOutput::ownerNode</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>77</integer>
+			</dict>
 		</dict>
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>44</integer>
+				<integer>8</integer>
 			</dict>
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>150</integer>
+					<integer>101</integer>
 				</dict>
 			</array>
 		</dict>
@@ -2661,137 +1814,138 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>34</integer>
+				<integer>10</integer>
 			</dict>
-			<key>PixMathParameter::enumItems</key>
+			<key>PixMathInput::connectedOutput</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>152</integer>
+				<integer>99</integer>
 			</dict>
-			<key>PixMathParameter::floatValue</key>
-			<real>0.0</real>
-			<key>PixMathParameter::input</key>
+			<key>PixMathInput::dataType</key>
+			<integer>3</integer>
+			<key>PixMathInput::name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>0</integer>
+				<integer>39</integer>
 			</dict>
-			<key>PixMathParameter::max</key>
-			<real>0.0</real>
-			<key>PixMathParameter::min</key>
-			<real>0.0</real>
-			<key>PixMathParameter::name</key>
+			<key>PixMathInput::ownerNode</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>151</integer>
+				<integer>102</integer>
 			</dict>
-			<key>PixMathParameter::outToFrag</key>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>145</integer>
+			</dict>
+			<key>PixMathNode::appearanceFlags</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>29</integer>
+			</dict>
+			<key>PixMathNode::appearanceFlagsInt</key>
+			<integer>0</integer>
+			<key>PixMathNode::centerPoint</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>143</integer>
+			</dict>
+			<key>PixMathNode::connectionType</key>
+			<integer>1</integer>
+			<key>PixMathNode::inputPorts</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>137</integer>
+			</dict>
+			<key>PixMathNode::isBypassed</key>
 			<false/>
-			<key>PixMathParameter::owner</key>
+			<key>PixMathNode::isNoOp</key>
+			<true/>
+			<key>PixMathNode::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>142</integer>
+			</dict>
+			<key>PixMathNode::nodeType</key>
+			<integer>4</integer>
+			<key>PixMathNode::originPoint</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>144</integer>
+			</dict>
+			<key>PixMathNode::outputPorts</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>132</integer>
+			</dict>
+			<key>PixMathNode::outputsFloat</key>
+			<true/>
+			<key>PixMathNode::parameters</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>138</integer>
+			</dict>
+			<key>PixMathNode::scaleFactor</key>
+			<real>1</real>
+			<key>PixMathNode::tag</key>
+			<integer>1718662058</integer>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>13</integer>
+			</dict>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>76</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
 				<integer>27</integer>
 			</dict>
-			<key>PixMathParameter::paramType</key>
-			<integer>4</integer>
-			<key>PixMathParameter::requiredHostProps</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-			<key>PixMathParameter::selEnumItem</key>
-			<integer>1</integer>
-		</dict>
-		<string>Image input</string>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>22</integer>
-			</dict>
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>153</integer>
+					<integer>105</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>154</integer>
+					<integer>106</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>155</integer>
+					<integer>108</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>156</integer>
+					<integer>111</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>157</integer>
+					<integer>114</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>158</integer>
+					<integer>117</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>159</integer>
+					<integer>120</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>160</integer>
+					<integer>123</integer>
 				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>161</integer>
-				</dict>
-			</array>
-		</dict>
-		<string>Not connected</string>
-		<string>Source clip</string>
-		<string>Image 1</string>
-		<string>Image 2</string>
-		<string>Image 3</string>
-		<string>Image 4</string>
-		<string>Image 5</string>
-		<string>Image 6</string>
-		<string>Image 7</string>
-		<string>Screen Sh...19.48 PM</string>
-		<string>{327.11667, 699.00006}</string>
-		<string>{272.11667, 677.00006}</string>
-		<dict>
-			<key>$classes</key>
-			<array>
-				<string>PixMathTextureSourceNode</string>
-				<string>PixMathNode</string>
-				<string>NSObject</string>
-			</array>
-			<key>$classname</key>
-			<string>PixMathTextureSourceNode</string>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>22</integer>
-			</dict>
-			<key>NS.objects</key>
-			<array>
-				<dict>
-					<key>CF$UID</key>
-					<integer>4</integer>
-				</dict>
-			</array>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>22</integer>
-			</dict>
-			<key>NS.objects</key>
-			<array>
 				<dict>
 					<key>CF$UID</key>
 					<integer>126</integer>
@@ -2802,38 +1956,7 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>44</integer>
-			</dict>
-			<key>NS.objects</key>
-			<array>
-				<dict>
-					<key>CF$UID</key>
-					<integer>169</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>172</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>175</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>178</integer>
-				</dict>
-			</array>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>34</integer>
-			</dict>
-			<key>PixMathParameter::enumItems</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>171</integer>
+				<integer>24</integer>
 			</dict>
 			<key>PixMathParameter::floatValue</key>
 			<real>0.0</real>
@@ -2849,344 +1972,14 @@
 			<key>PixMathParameter::name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>170</integer>
+				<integer>23</integer>
 			</dict>
 			<key>PixMathParameter::outToFrag</key>
 			<false/>
 			<key>PixMathParameter::owner</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>6</integer>
-			</dict>
-			<key>PixMathParameter::paramType</key>
-			<integer>4</integer>
-			<key>PixMathParameter::requiredHostProps</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-			<key>PixMathParameter::selEnumItem</key>
-			<integer>0</integer>
-		</dict>
-		<string>Screen Color</string>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>22</integer>
-			</dict>
-			<key>NS.objects</key>
-			<array>
-				<dict>
-					<key>CF$UID</key>
-					<integer>103</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>104</integer>
-				</dict>
-			</array>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>34</integer>
-			</dict>
-			<key>PixMathParameter::floatValue</key>
-			<real>1.195246696472168</real>
-			<key>PixMathParameter::input</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>174</integer>
-			</dict>
-			<key>PixMathParameter::max</key>
-			<real>2</real>
-			<key>PixMathParameter::min</key>
-			<real>0.0</real>
-			<key>PixMathParameter::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>173</integer>
-			</dict>
-			<key>PixMathParameter::outToFrag</key>
-			<false/>
-			<key>PixMathParameter::owner</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>6</integer>
-			</dict>
-			<key>PixMathParameter::paramType</key>
-			<integer>1</integer>
-			<key>PixMathParameter::requiredHostProps</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-		</dict>
-		<string>Amount</string>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>10</integer>
-			</dict>
-			<key>PixMathInput::connectedOutput</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-			<key>PixMathInput::dataType</key>
-			<integer>1</integer>
-			<key>PixMathInput::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>173</integer>
-			</dict>
-			<key>PixMathInput::ownerNode</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>172</integer>
-			</dict>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>34</integer>
-			</dict>
-			<key>PixMathParameter::floatValue</key>
-			<real>0.51183491945266724</real>
-			<key>PixMathParameter::input</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>177</integer>
-			</dict>
-			<key>PixMathParameter::max</key>
-			<real>1</real>
-			<key>PixMathParameter::min</key>
-			<real>0.0</real>
-			<key>PixMathParameter::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>176</integer>
-			</dict>
-			<key>PixMathParameter::outToFrag</key>
-			<false/>
-			<key>PixMathParameter::owner</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>6</integer>
-			</dict>
-			<key>PixMathParameter::paramType</key>
-			<integer>1</integer>
-			<key>PixMathParameter::requiredHostProps</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-		</dict>
-		<string>Bias</string>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>10</integer>
-			</dict>
-			<key>PixMathInput::connectedOutput</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-			<key>PixMathInput::dataType</key>
-			<integer>1</integer>
-			<key>PixMathInput::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>176</integer>
-			</dict>
-			<key>PixMathInput::ownerNode</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>175</integer>
-			</dict>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>34</integer>
-			</dict>
-			<key>PixMathParameter::floatValue</key>
-			<real>0.82323139905929565</real>
-			<key>PixMathParameter::input</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>179</integer>
-			</dict>
-			<key>PixMathParameter::max</key>
-			<real>1</real>
-			<key>PixMathParameter::min</key>
-			<real>0.0</real>
-			<key>PixMathParameter::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>68</integer>
-			</dict>
-			<key>PixMathParameter::outToFrag</key>
-			<false/>
-			<key>PixMathParameter::owner</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>6</integer>
-			</dict>
-			<key>PixMathParameter::paramType</key>
-			<integer>1</integer>
-			<key>PixMathParameter::requiredHostProps</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>10</integer>
-			</dict>
-			<key>PixMathInput::connectedOutput</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-			<key>PixMathInput::dataType</key>
-			<integer>1</integer>
-			<key>PixMathInput::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>68</integer>
-			</dict>
-			<key>PixMathInput::ownerNode</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>178</integer>
-			</dict>
-		</dict>
-		<string>Despill</string>
-		<string>{494.93658, 109.4}</string>
-		<string>{439.93658, 87.400002}</string>
-		<dict>
-			<key>$classes</key>
-			<array>
-				<string>PixMathOpNode_Despill</string>
-				<string>PixMathNode</string>
-				<string>NSObject</string>
-			</array>
-			<key>$classname</key>
-			<string>PixMathOpNode_Despill</string>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>22</integer>
-			</dict>
-			<key>NS.objects</key>
-			<array>
-				<dict>
-					<key>CF$UID</key>
-					<integer>82</integer>
-				</dict>
-			</array>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>22</integer>
-			</dict>
-			<key>NS.objects</key>
-			<array>
-				<dict>
-					<key>CF$UID</key>
-					<integer>54</integer>
-				</dict>
-			</array>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>44</integer>
-			</dict>
-			<key>NS.objects</key>
-			<array>
-				<dict>
-					<key>CF$UID</key>
-					<integer>187</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>188</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>190</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>192</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>194</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>196</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>199</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>202</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>205</integer>
-				</dict>
-			</array>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>34</integer>
-			</dict>
-			<key>PixMathParameter::floatValue</key>
-			<real>1</real>
-			<key>PixMathParameter::input</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-			<key>PixMathParameter::max</key>
-			<real>0.0</real>
-			<key>PixMathParameter::min</key>
-			<real>0.0</real>
-			<key>PixMathParameter::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>66</integer>
-			</dict>
-			<key>PixMathParameter::outToFrag</key>
-			<false/>
-			<key>PixMathParameter::owner</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>55</integer>
+				<integer>77</integer>
 			</dict>
 			<key>PixMathParameter::paramType</key>
 			<integer>3</integer>
@@ -3200,7 +1993,7 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>34</integer>
+				<integer>24</integer>
 			</dict>
 			<key>PixMathParameter::floatValue</key>
 			<real>0.0</real>
@@ -3216,14 +2009,14 @@
 			<key>PixMathParameter::name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>189</integer>
+				<integer>107</integer>
 			</dict>
 			<key>PixMathParameter::outToFrag</key>
 			<false/>
 			<key>PixMathParameter::owner</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>55</integer>
+				<integer>77</integer>
 			</dict>
 			<key>PixMathParameter::paramType</key>
 			<integer>3</integer>
@@ -3238,14 +2031,14 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>34</integer>
+				<integer>24</integer>
 			</dict>
 			<key>PixMathParameter::floatValue</key>
-			<real>1</real>
+			<real>0.0</real>
 			<key>PixMathParameter::input</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>191</integer>
+				<integer>110</integer>
 			</dict>
 			<key>PixMathParameter::max</key>
 			<real>1</real>
@@ -3254,14 +2047,14 @@
 			<key>PixMathParameter::name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>68</integer>
+				<integer>109</integer>
 			</dict>
 			<key>PixMathParameter::outToFrag</key>
 			<false/>
 			<key>PixMathParameter::owner</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>55</integer>
+				<integer>77</integer>
 			</dict>
 			<key>PixMathParameter::paramType</key>
 			<integer>1</integer>
@@ -3271,6 +2064,7 @@
 				<integer>0</integer>
 			</dict>
 		</dict>
+		<string>Effect opacity</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3287,26 +2081,26 @@
 			<key>PixMathInput::name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>68</integer>
+				<integer>109</integer>
 			</dict>
 			<key>PixMathInput::ownerNode</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>190</integer>
+				<integer>108</integer>
 			</dict>
 		</dict>
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>34</integer>
+				<integer>24</integer>
 			</dict>
 			<key>PixMathParameter::floatValue</key>
-			<real>0.0</real>
+			<real>0.58753323554992676</real>
 			<key>PixMathParameter::input</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>193</integer>
+				<integer>113</integer>
 			</dict>
 			<key>PixMathParameter::max</key>
 			<real>1</real>
@@ -3315,14 +2109,14 @@
 			<key>PixMathParameter::name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>114</integer>
+				<integer>112</integer>
 			</dict>
 			<key>PixMathParameter::outToFrag</key>
 			<false/>
 			<key>PixMathParameter::owner</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>55</integer>
+				<integer>77</integer>
 			</dict>
 			<key>PixMathParameter::paramType</key>
 			<integer>1</integer>
@@ -3332,67 +2126,7 @@
 				<integer>0</integer>
 			</dict>
 		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>10</integer>
-			</dict>
-			<key>PixMathInput::connectedOutput</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-			<key>PixMathInput::dataType</key>
-			<integer>2</integer>
-			<key>PixMathInput::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>114</integer>
-			</dict>
-			<key>PixMathInput::ownerNode</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>192</integer>
-			</dict>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>34</integer>
-			</dict>
-			<key>PixMathParameter::floatValue</key>
-			<real>1</real>
-			<key>PixMathParameter::input</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>195</integer>
-			</dict>
-			<key>PixMathParameter::max</key>
-			<real>1</real>
-			<key>PixMathParameter::min</key>
-			<real>0.0</real>
-			<key>PixMathParameter::name</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>117</integer>
-			</dict>
-			<key>PixMathParameter::outToFrag</key>
-			<false/>
-			<key>PixMathParameter::owner</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>55</integer>
-			</dict>
-			<key>PixMathParameter::paramType</key>
-			<integer>1</integer>
-			<key>PixMathParameter::requiredHostProps</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-		</dict>
+		<string>Input black</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3409,26 +2143,88 @@
 			<key>PixMathInput::name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>117</integer>
+				<integer>112</integer>
 			</dict>
 			<key>PixMathInput::ownerNode</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>194</integer>
+				<integer>111</integer>
 			</dict>
 		</dict>
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>34</integer>
+				<integer>24</integer>
 			</dict>
 			<key>PixMathParameter::floatValue</key>
-			<real>1</real>
+			<real>0.52790415287017822</real>
 			<key>PixMathParameter::input</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>198</integer>
+				<integer>116</integer>
+			</dict>
+			<key>PixMathParameter::max</key>
+			<real>1</real>
+			<key>PixMathParameter::min</key>
+			<real>0.0</real>
+			<key>PixMathParameter::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>115</integer>
+			</dict>
+			<key>PixMathParameter::outToFrag</key>
+			<false/>
+			<key>PixMathParameter::owner</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>77</integer>
+			</dict>
+			<key>PixMathParameter::paramType</key>
+			<integer>1</integer>
+			<key>PixMathParameter::requiredHostProps</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<string>Input white</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>10</integer>
+			</dict>
+			<key>PixMathInput::connectedOutput</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>PixMathInput::dataType</key>
+			<integer>2</integer>
+			<key>PixMathInput::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>115</integer>
+			</dict>
+			<key>PixMathInput::ownerNode</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>114</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>24</integer>
+			</dict>
+			<key>PixMathParameter::floatValue</key>
+			<real>0.0</real>
+			<key>PixMathParameter::input</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>119</integer>
 			</dict>
 			<key>PixMathParameter::max</key>
 			<real>4</real>
@@ -3437,14 +2233,14 @@
 			<key>PixMathParameter::name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>197</integer>
+				<integer>118</integer>
 			</dict>
 			<key>PixMathParameter::outToFrag</key>
 			<false/>
 			<key>PixMathParameter::owner</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>55</integer>
+				<integer>77</integer>
 			</dict>
 			<key>PixMathParameter::paramType</key>
 			<integer>1</integer>
@@ -3471,26 +2267,26 @@
 			<key>PixMathInput::name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>197</integer>
+				<integer>118</integer>
 			</dict>
 			<key>PixMathInput::ownerNode</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>196</integer>
+				<integer>117</integer>
 			</dict>
 		</dict>
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>34</integer>
+				<integer>24</integer>
 			</dict>
 			<key>PixMathParameter::floatValue</key>
-			<real>0.0</real>
+			<real>0.73978215456008911</real>
 			<key>PixMathParameter::input</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>201</integer>
+				<integer>122</integer>
 			</dict>
 			<key>PixMathParameter::max</key>
 			<real>1</real>
@@ -3499,14 +2295,14 @@
 			<key>PixMathParameter::name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>200</integer>
+				<integer>121</integer>
 			</dict>
 			<key>PixMathParameter::outToFrag</key>
 			<false/>
 			<key>PixMathParameter::owner</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>55</integer>
+				<integer>77</integer>
 			</dict>
 			<key>PixMathParameter::paramType</key>
 			<integer>1</integer>
@@ -3533,26 +2329,26 @@
 			<key>PixMathInput::name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>200</integer>
+				<integer>121</integer>
 			</dict>
 			<key>PixMathInput::ownerNode</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>199</integer>
+				<integer>120</integer>
 			</dict>
 		</dict>
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>34</integer>
+				<integer>24</integer>
 			</dict>
 			<key>PixMathParameter::floatValue</key>
-			<real>1</real>
+			<real>0.53390538692474365</real>
 			<key>PixMathParameter::input</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>204</integer>
+				<integer>125</integer>
 			</dict>
 			<key>PixMathParameter::max</key>
 			<real>1</real>
@@ -3561,14 +2357,14 @@
 			<key>PixMathParameter::name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>203</integer>
+				<integer>124</integer>
 			</dict>
 			<key>PixMathParameter::outToFrag</key>
 			<false/>
 			<key>PixMathParameter::owner</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>55</integer>
+				<integer>77</integer>
 			</dict>
 			<key>PixMathParameter::paramType</key>
 			<integer>1</integer>
@@ -3595,19 +2391,19 @@
 			<key>PixMathInput::name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>203</integer>
+				<integer>124</integer>
 			</dict>
 			<key>PixMathInput::ownerNode</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>202</integer>
+				<integer>123</integer>
 			</dict>
 		</dict>
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>34</integer>
+				<integer>24</integer>
 			</dict>
 			<key>PixMathParameter::floatValue</key>
 			<real>0.0</real>
@@ -3623,14 +2419,14 @@
 			<key>PixMathParameter::name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>206</integer>
+				<integer>127</integer>
 			</dict>
 			<key>PixMathParameter::outToFrag</key>
 			<false/>
 			<key>PixMathParameter::owner</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>55</integer>
+				<integer>77</integer>
 			</dict>
 			<key>PixMathParameter::paramType</key>
 			<integer>3</integer>
@@ -3642,8 +2438,8 @@
 		</dict>
 		<string>Show image histogram (faster if disabled)</string>
 		<string>Levels</string>
-		<string>{443.16309, 398.02649}</string>
-		<string>{388.16309, 376.02649}</string>
+		<string>{696.16309, 488.02658}</string>
+		<string>{641.16309, 466.02658}</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -3654,12 +2450,1468 @@
 			<key>$classname</key>
 			<string>PixMathOpNode_Levels</string>
 		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>13</integer>
+			</dict>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>133</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>9</integer>
+			</dict>
+			<key>PixMathOutput::connectedInputs</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>134</integer>
+			</dict>
+			<key>PixMathOutput::dataType</key>
+			<integer>3</integer>
+			<key>PixMathOutput::index</key>
+			<integer>0</integer>
+			<key>PixMathOutput::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>5</integer>
+			</dict>
+			<key>PixMathOutput::ownerNode</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>102</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>8</integer>
+			</dict>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>135</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>10</integer>
+			</dict>
+			<key>PixMathInput::connectedOutput</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>133</integer>
+			</dict>
+			<key>PixMathInput::dataType</key>
+			<integer>2</integer>
+			<key>PixMathInput::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>136</integer>
+			</dict>
+			<key>PixMathInput::ownerNode</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>65</integer>
+			</dict>
+		</dict>
+		<string>matte</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>13</integer>
+			</dict>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>101</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>27</integer>
+			</dict>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>139</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>140</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>24</integer>
+			</dict>
+			<key>PixMathParameter::floatValue</key>
+			<real>0.0</real>
+			<key>PixMathParameter::input</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>PixMathParameter::max</key>
+			<real>0.0</real>
+			<key>PixMathParameter::min</key>
+			<real>0.0</real>
+			<key>PixMathParameter::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>23</integer>
+			</dict>
+			<key>PixMathParameter::outToFrag</key>
+			<false/>
+			<key>PixMathParameter::owner</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>102</integer>
+			</dict>
+			<key>PixMathParameter::paramType</key>
+			<integer>3</integer>
+			<key>PixMathParameter::requiredHostProps</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>24</integer>
+			</dict>
+			<key>PixMathParameter::floatValue</key>
+			<real>0.0</real>
+			<key>PixMathParameter::input</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>141</integer>
+			</dict>
+			<key>PixMathParameter::max</key>
+			<real>1</real>
+			<key>PixMathParameter::min</key>
+			<real>0.0</real>
+			<key>PixMathParameter::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>109</integer>
+			</dict>
+			<key>PixMathParameter::outToFrag</key>
+			<false/>
+			<key>PixMathParameter::owner</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>102</integer>
+			</dict>
+			<key>PixMathParameter::paramType</key>
+			<integer>1</integer>
+			<key>PixMathParameter::requiredHostProps</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>10</integer>
+			</dict>
+			<key>PixMathInput::connectedOutput</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>PixMathInput::dataType</key>
+			<integer>1</integer>
+			<key>PixMathInput::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>109</integer>
+			</dict>
+			<key>PixMathInput::ownerNode</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>140</integer>
+			</dict>
+		</dict>
+		<string>Invert</string>
+		<string>{564.90344, 409.41315}</string>
+		<string>{509.90344, 387.41315}</string>
+		<dict>
+			<key>$classes</key>
+			<array>
+				<string>PixMathOpNode_Invert</string>
+				<string>PixMathNode</string>
+				<string>NSObject</string>
+			</array>
+			<key>$classname</key>
+			<string>PixMathOpNode_Invert</string>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>13</integer>
+			</dict>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>74</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>13</integer>
+			</dict>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>70</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>27</integer>
+			</dict>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>149</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>153</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>158</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>166</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>168</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>24</integer>
+			</dict>
+			<key>PixMathParameter::enumItems</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>151</integer>
+			</dict>
+			<key>PixMathParameter::floatValue</key>
+			<real>0.0</real>
+			<key>PixMathParameter::input</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>PixMathParameter::max</key>
+			<real>0.0</real>
+			<key>PixMathParameter::min</key>
+			<real>0.0</real>
+			<key>PixMathParameter::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>150</integer>
+			</dict>
+			<key>PixMathParameter::outToFrag</key>
+			<false/>
+			<key>PixMathParameter::owner</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>71</integer>
+			</dict>
+			<key>PixMathParameter::paramType</key>
+			<integer>4</integer>
+			<key>PixMathParameter::requiredHostProps</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>PixMathParameter::selEnumItem</key>
+			<integer>0</integer>
+		</dict>
+		<string>View</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>13</integer>
+			</dict>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>136</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>152</integer>
+				</dict>
+			</array>
+		</dict>
+		<string>composite</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>24</integer>
+			</dict>
+			<key>PixMathParameter::enumItems</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>155</integer>
+			</dict>
+			<key>PixMathParameter::floatValue</key>
+			<real>0.0</real>
+			<key>PixMathParameter::input</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>PixMathParameter::max</key>
+			<real>0.0</real>
+			<key>PixMathParameter::min</key>
+			<real>0.0</real>
+			<key>PixMathParameter::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>154</integer>
+			</dict>
+			<key>PixMathParameter::outToFrag</key>
+			<false/>
+			<key>PixMathParameter::owner</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>71</integer>
+			</dict>
+			<key>PixMathParameter::paramType</key>
+			<integer>4</integer>
+			<key>PixMathParameter::requiredHostProps</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>PixMathParameter::selEnumItem</key>
+			<integer>0</integer>
+		</dict>
+		<string>Screen color</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>13</integer>
+			</dict>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>156</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>157</integer>
+				</dict>
+			</array>
+		</dict>
+		<string>green</string>
+		<string>blue</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>24</integer>
+			</dict>
+			<key>PixMathParameter::enumItems</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>160</integer>
+			</dict>
+			<key>PixMathParameter::floatValue</key>
+			<real>0.0</real>
+			<key>PixMathParameter::input</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>PixMathParameter::max</key>
+			<real>0.0</real>
+			<key>PixMathParameter::min</key>
+			<real>0.0</real>
+			<key>PixMathParameter::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>159</integer>
+			</dict>
+			<key>PixMathParameter::outToFrag</key>
+			<false/>
+			<key>PixMathParameter::owner</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>71</integer>
+			</dict>
+			<key>PixMathParameter::paramType</key>
+			<integer>4</integer>
+			<key>PixMathParameter::requiredHostProps</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>PixMathParameter::selEnumItem</key>
+			<integer>1</integer>
+		</dict>
+		<string>Subtract</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>13</integer>
+			</dict>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>161</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>162</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>163</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>164</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>165</integer>
+				</dict>
+			</array>
+		</dict>
+		<string>2nd channel (greenscreen: red, bluescreen: green)</string>
+		<string>3rd channel (greenscreen: blue, bluescreen: red)</string>
+		<string>average of 2nd and 3rd channels</string>
+		<string>max of 2nd and 3rd channels</string>
+		<string>min of 2nd and 3rd channels</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>24</integer>
+			</dict>
+			<key>PixMathParameter::floatValue</key>
+			<real>0.3196026086807251</real>
+			<key>PixMathParameter::input</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>167</integer>
+			</dict>
+			<key>PixMathParameter::max</key>
+			<real>1</real>
+			<key>PixMathParameter::min</key>
+			<real>0.0</real>
+			<key>PixMathParameter::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>112</integer>
+			</dict>
+			<key>PixMathParameter::outToFrag</key>
+			<false/>
+			<key>PixMathParameter::owner</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>71</integer>
+			</dict>
+			<key>PixMathParameter::paramType</key>
+			<integer>1</integer>
+			<key>PixMathParameter::requiredHostProps</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>10</integer>
+			</dict>
+			<key>PixMathInput::connectedOutput</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>PixMathInput::dataType</key>
+			<integer>1</integer>
+			<key>PixMathInput::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>112</integer>
+			</dict>
+			<key>PixMathInput::ownerNode</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>166</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>24</integer>
+			</dict>
+			<key>PixMathParameter::floatValue</key>
+			<real>0.30129402875900269</real>
+			<key>PixMathParameter::input</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>169</integer>
+			</dict>
+			<key>PixMathParameter::max</key>
+			<real>1</real>
+			<key>PixMathParameter::min</key>
+			<real>0.0</real>
+			<key>PixMathParameter::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>115</integer>
+			</dict>
+			<key>PixMathParameter::outToFrag</key>
+			<false/>
+			<key>PixMathParameter::owner</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>71</integer>
+			</dict>
+			<key>PixMathParameter::paramType</key>
+			<integer>1</integer>
+			<key>PixMathParameter::requiredHostProps</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>10</integer>
+			</dict>
+			<key>PixMathInput::connectedOutput</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>PixMathInput::dataType</key>
+			<integer>1</integer>
+			<key>PixMathInput::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>115</integer>
+			</dict>
+			<key>PixMathInput::ownerNode</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>168</integer>
+			</dict>
+		</dict>
+		<string>Color Difference Key</string>
+		<string>{731.52991, 628.21344}</string>
+		<string>{676.52991, 606.21344}</string>
+		<dict>
+			<key>$classes</key>
+			<array>
+				<string>PixMathOpNode_ColorDifferenceKeyer</string>
+				<string>PixMathNode</string>
+				<string>NSObject</string>
+			</array>
+			<key>$classname</key>
+			<string>PixMathOpNode_ColorDifferenceKeyer</string>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>13</integer>
+			</dict>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>68</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>13</integer>
+			</dict>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>38</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>27</integer>
+			</dict>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>177</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>180</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>183</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>186</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>24</integer>
+			</dict>
+			<key>PixMathParameter::floatValue</key>
+			<real>0.25</real>
+			<key>PixMathParameter::input</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>179</integer>
+			</dict>
+			<key>PixMathParameter::max</key>
+			<real>1</real>
+			<key>PixMathParameter::min</key>
+			<real>0.0</real>
+			<key>PixMathParameter::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>178</integer>
+			</dict>
+			<key>PixMathParameter::outToFrag</key>
+			<false/>
+			<key>PixMathParameter::owner</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>40</integer>
+			</dict>
+			<key>PixMathParameter::paramType</key>
+			<integer>1</integer>
+			<key>PixMathParameter::requiredHostProps</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<string>Left</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>10</integer>
+			</dict>
+			<key>PixMathInput::connectedOutput</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>PixMathInput::dataType</key>
+			<integer>1</integer>
+			<key>PixMathInput::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>178</integer>
+			</dict>
+			<key>PixMathInput::ownerNode</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>177</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>24</integer>
+			</dict>
+			<key>PixMathParameter::floatValue</key>
+			<real>0.20000000298023224</real>
+			<key>PixMathParameter::input</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>182</integer>
+			</dict>
+			<key>PixMathParameter::max</key>
+			<real>1</real>
+			<key>PixMathParameter::min</key>
+			<real>0.0</real>
+			<key>PixMathParameter::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>181</integer>
+			</dict>
+			<key>PixMathParameter::outToFrag</key>
+			<false/>
+			<key>PixMathParameter::owner</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>40</integer>
+			</dict>
+			<key>PixMathParameter::paramType</key>
+			<integer>1</integer>
+			<key>PixMathParameter::requiredHostProps</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<string>Right</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>10</integer>
+			</dict>
+			<key>PixMathInput::connectedOutput</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>PixMathInput::dataType</key>
+			<integer>1</integer>
+			<key>PixMathInput::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>181</integer>
+			</dict>
+			<key>PixMathInput::ownerNode</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>180</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>24</integer>
+			</dict>
+			<key>PixMathParameter::floatValue</key>
+			<real>0.10000000149011612</real>
+			<key>PixMathParameter::input</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>185</integer>
+			</dict>
+			<key>PixMathParameter::max</key>
+			<real>1</real>
+			<key>PixMathParameter::min</key>
+			<real>0.0</real>
+			<key>PixMathParameter::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>184</integer>
+			</dict>
+			<key>PixMathParameter::outToFrag</key>
+			<false/>
+			<key>PixMathParameter::owner</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>40</integer>
+			</dict>
+			<key>PixMathParameter::paramType</key>
+			<integer>1</integer>
+			<key>PixMathParameter::requiredHostProps</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<string>Top</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>10</integer>
+			</dict>
+			<key>PixMathInput::connectedOutput</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>PixMathInput::dataType</key>
+			<integer>1</integer>
+			<key>PixMathInput::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>184</integer>
+			</dict>
+			<key>PixMathInput::ownerNode</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>183</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>24</integer>
+			</dict>
+			<key>PixMathParameter::floatValue</key>
+			<real>0.0</real>
+			<key>PixMathParameter::input</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>188</integer>
+			</dict>
+			<key>PixMathParameter::max</key>
+			<real>1</real>
+			<key>PixMathParameter::min</key>
+			<real>0.0</real>
+			<key>PixMathParameter::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>187</integer>
+			</dict>
+			<key>PixMathParameter::outToFrag</key>
+			<false/>
+			<key>PixMathParameter::owner</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>40</integer>
+			</dict>
+			<key>PixMathParameter::paramType</key>
+			<integer>1</integer>
+			<key>PixMathParameter::requiredHostProps</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<string>Bottom</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>10</integer>
+			</dict>
+			<key>PixMathInput::connectedOutput</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>PixMathInput::dataType</key>
+			<integer>1</integer>
+			<key>PixMathInput::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>187</integer>
+			</dict>
+			<key>PixMathInput::ownerNode</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>186</integer>
+			</dict>
+		</dict>
+		<string>Crop</string>
+		<string>{348.67603, 595.27356}</string>
+		<string>{293.67603, 573.27356}</string>
+		<dict>
+			<key>$classes</key>
+			<array>
+				<string>PixMathOpNode_Crop</string>
+				<string>PixMathNode</string>
+				<string>NSObject</string>
+			</array>
+			<key>$classname</key>
+			<string>PixMathOpNode_Crop</string>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>13</integer>
+			</dict>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>194</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>9</integer>
+			</dict>
+			<key>PixMathOutput::connectedInputs</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>195</integer>
+			</dict>
+			<key>PixMathOutput::dataType</key>
+			<integer>2</integer>
+			<key>PixMathOutput::index</key>
+			<integer>0</integer>
+			<key>PixMathOutput::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>5</integer>
+			</dict>
+			<key>PixMathOutput::ownerNode</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>65</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>8</integer>
+			</dict>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>196</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>10</integer>
+			</dict>
+			<key>PixMathInput::connectedOutput</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>194</integer>
+			</dict>
+			<key>PixMathInput::dataType</key>
+			<integer>2</integer>
+			<key>PixMathInput::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>39</integer>
+			</dict>
+			<key>PixMathInput::ownerNode</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>19</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>13</integer>
+			</dict>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>64</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>135</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>27</integer>
+			</dict>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>199</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>201</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>24</integer>
+			</dict>
+			<key>PixMathParameter::floatValue</key>
+			<real>0.0</real>
+			<key>PixMathParameter::input</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>PixMathParameter::max</key>
+			<real>0.0</real>
+			<key>PixMathParameter::min</key>
+			<real>0.0</real>
+			<key>PixMathParameter::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>200</integer>
+			</dict>
+			<key>PixMathParameter::outToFrag</key>
+			<false/>
+			<key>PixMathParameter::owner</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>65</integer>
+			</dict>
+			<key>PixMathParameter::paramType</key>
+			<integer>3</integer>
+			<key>PixMathParameter::requiredHostProps</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<string>Clip RGB to 0-1</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>24</integer>
+			</dict>
+			<key>PixMathParameter::floatValue</key>
+			<real>1</real>
+			<key>PixMathParameter::input</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>PixMathParameter::max</key>
+			<real>0.0</real>
+			<key>PixMathParameter::min</key>
+			<real>0.0</real>
+			<key>PixMathParameter::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>26</integer>
+			</dict>
+			<key>PixMathParameter::outToFrag</key>
+			<false/>
+			<key>PixMathParameter::owner</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>65</integer>
+			</dict>
+			<key>PixMathParameter::paramType</key>
+			<integer>3</integer>
+			<key>PixMathParameter::requiredHostProps</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<string>Set Matte</string>
+		<string>{319.28723, 348.59998}</string>
+		<string>{264.28723, 326.59998}</string>
+		<dict>
+			<key>$classes</key>
+			<array>
+				<string>PixMathOpNode_SetMatte</string>
+				<string>PixMathNode</string>
+				<string>NSObject</string>
+			</array>
+			<key>$classname</key>
+			<string>PixMathOpNode_SetMatte</string>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>13</integer>
+			</dict>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>17</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>13</integer>
+			</dict>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>196</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>27</integer>
+			</dict>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>209</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>212</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>215</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>218</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>24</integer>
+			</dict>
+			<key>PixMathParameter::enumItems</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>211</integer>
+			</dict>
+			<key>PixMathParameter::floatValue</key>
+			<real>0.0</real>
+			<key>PixMathParameter::input</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>PixMathParameter::max</key>
+			<real>0.0</real>
+			<key>PixMathParameter::min</key>
+			<real>0.0</real>
+			<key>PixMathParameter::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>210</integer>
+			</dict>
+			<key>PixMathParameter::outToFrag</key>
+			<false/>
+			<key>PixMathParameter::owner</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>19</integer>
+			</dict>
+			<key>PixMathParameter::paramType</key>
+			<integer>4</integer>
+			<key>PixMathParameter::requiredHostProps</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>PixMathParameter::selEnumItem</key>
+			<integer>0</integer>
+		</dict>
+		<string>Screen Color</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>13</integer>
+			</dict>
+			<key>NS.objects</key>
+			<array>
+				<dict>
+					<key>CF$UID</key>
+					<integer>156</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>157</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>24</integer>
+			</dict>
+			<key>PixMathParameter::floatValue</key>
+			<real>1</real>
+			<key>PixMathParameter::input</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>214</integer>
+			</dict>
+			<key>PixMathParameter::max</key>
+			<real>2</real>
+			<key>PixMathParameter::min</key>
+			<real>0.0</real>
+			<key>PixMathParameter::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>213</integer>
+			</dict>
+			<key>PixMathParameter::outToFrag</key>
+			<false/>
+			<key>PixMathParameter::owner</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>19</integer>
+			</dict>
+			<key>PixMathParameter::paramType</key>
+			<integer>1</integer>
+			<key>PixMathParameter::requiredHostProps</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<string>Amount</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>10</integer>
+			</dict>
+			<key>PixMathInput::connectedOutput</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>PixMathInput::dataType</key>
+			<integer>1</integer>
+			<key>PixMathInput::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>213</integer>
+			</dict>
+			<key>PixMathInput::ownerNode</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>212</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>24</integer>
+			</dict>
+			<key>PixMathParameter::floatValue</key>
+			<real>1</real>
+			<key>PixMathParameter::input</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>217</integer>
+			</dict>
+			<key>PixMathParameter::max</key>
+			<real>1</real>
+			<key>PixMathParameter::min</key>
+			<real>0.0</real>
+			<key>PixMathParameter::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>216</integer>
+			</dict>
+			<key>PixMathParameter::outToFrag</key>
+			<false/>
+			<key>PixMathParameter::owner</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>19</integer>
+			</dict>
+			<key>PixMathParameter::paramType</key>
+			<integer>1</integer>
+			<key>PixMathParameter::requiredHostProps</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<string>Bias</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>10</integer>
+			</dict>
+			<key>PixMathInput::connectedOutput</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>PixMathInput::dataType</key>
+			<integer>1</integer>
+			<key>PixMathInput::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>216</integer>
+			</dict>
+			<key>PixMathInput::ownerNode</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>215</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>24</integer>
+			</dict>
+			<key>PixMathParameter::floatValue</key>
+			<real>1</real>
+			<key>PixMathParameter::input</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>219</integer>
+			</dict>
+			<key>PixMathParameter::max</key>
+			<real>1</real>
+			<key>PixMathParameter::min</key>
+			<real>0.0</real>
+			<key>PixMathParameter::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>109</integer>
+			</dict>
+			<key>PixMathParameter::outToFrag</key>
+			<false/>
+			<key>PixMathParameter::owner</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>19</integer>
+			</dict>
+			<key>PixMathParameter::paramType</key>
+			<integer>1</integer>
+			<key>PixMathParameter::requiredHostProps</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>10</integer>
+			</dict>
+			<key>PixMathInput::connectedOutput</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>PixMathInput::dataType</key>
+			<integer>1</integer>
+			<key>PixMathInput::name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>109</integer>
+			</dict>
+			<key>PixMathInput::ownerNode</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>218</integer>
+			</dict>
+		</dict>
+		<string>Despill</string>
+		<string>{270.93658, 241.20001}</string>
+		<string>{215.93658, 219.20001}</string>
+		<dict>
+			<key>$classes</key>
+			<array>
+				<string>PixMathOpNode_Despill</string>
+				<string>PixMathNode</string>
+				<string>NSObject</string>
+			</array>
+			<key>$classname</key>
+			<string>PixMathOpNode_Despill</string>
+		</dict>
 		<string>prsenter-key.conduit</string>
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>213</integer>
+				<integer>226</integer>
 			</dict>
 			<key>NS.keys</key>
 			<array/>
@@ -3680,14 +3932,14 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>213</integer>
+				<integer>226</integer>
 			</dict>
 			<key>NS.keys</key>
 			<array/>
 			<key>NS.objects</key>
 			<array/>
 		</dict>
-		<string>{456.11667, 25.000021}</string>
+		<string>{286.11667, 97.000008}</string>
 		<string>794.0</string>
 		<string>20080820.0</string>
 		<dict>
