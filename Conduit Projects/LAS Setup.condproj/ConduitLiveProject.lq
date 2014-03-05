@@ -1,21 +1,21 @@
 {
   "applicationVersionInt" : 800,
-  "preferRenderSpeedToPrecision" : false,
-  "defaultRenderHeight" : 1080,
+  "preferRenderSpeedToPrecision" : true,
+  "defaultRenderHeight" : 720,
   "streamPatchNodeInfo" : [
-    {
-      "tag" : 192305122,
-      "name" : "source 3",
-      "class" : "LCLStageToolsMovieStreamSource"
-    },
     {
       "tag" : 1222784554,
       "name" : "main background",
       "class" : "LCLStageToolsMovieStreamSource"
     },
     {
-      "tag" : 1635899091,
-      "name" : "source",
+      "tag" : 71096259,
+      "name" : "source 4",
+      "class" : "LQDeckLinkCaptureStreamSource"
+    },
+    {
+      "tag" : 631506474,
+      "name" : "source 2",
       "class" : "LQDeckLinkCaptureStreamSource"
     },
     {
@@ -39,30 +39,20 @@
       "class" : "LCLStageToolsMovieStreamSource"
     },
     {
+      "tag" : 192305122,
+      "name" : "source 3",
+      "class" : "LCLStageToolsMovieStreamSource"
+    },
+    {
       "tag" : 1541302215,
       "name" : "display",
       "class" : "LCLStageToolsMultiPresenter"
-    },
-    {
-      "tag" : 631506474,
-      "name" : "source 2",
-      "class" : "LQDeckLinkCaptureStreamSource"
-    },
-    {
-      "tag" : 939468574,
-      "name" : "rendcap",
-      "class" : "LCLRenderedCaptureStreamNode"
-    },
-    {
-      "tag" : 610112517,
-      "name" : "rendcap 2",
-      "class" : "LCLRenderedCaptureStreamNode"
     }
   ],
-  "defaultRenderWidth" : 1920,
-  "preferRenderNoVSync" : false,
+  "defaultRenderWidth" : 1280,
+  "preferRenderNoVSync" : true,
   "outputSettings" : {
-    "screenIndex" : 1
+    "screenIndex" : 0
   },
   "scriptAssetNames" : {},
   "defaultTimebase" : 23.97602397602398
