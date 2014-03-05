@@ -53,7 +53,9 @@ This page describes our setup for the demo we presented at Learning @ Scale 2014
 
 ## Slides
 <!-- TODO: Post file version to slideshare and embed. -->
+An **unfinished** version of our slides can be found, [here][as-given]. (PDF link).
 
+We'll upload a more finished version with lots of bonus material soon! Promise! :)
 
 ## Setup
 Our setup was relatively simple for the demo, and once configured could be setup in a couple minutes. The signal flow diagram below shows how everything was connected. We had a green screen, and a light standing next to the camera, facing the green screen to help with lighting. The "Host" computer was the main computer providing video to a single projector.
@@ -93,8 +95,10 @@ This is a list of the specific hardware that we used during the presentation, wi
 ## Software
 
 
+[as-given]: mooc-vide-as-given-ROUGH.pdf
 [keynote]: xxx
 [keynote-small]: xxx
 [pdf]: xxx
 [conduit]: xxx
+[conduti-as]: xxx
 [flow-jpg]: demo-flow-las2014-ball-arvai-parikh.jpg
