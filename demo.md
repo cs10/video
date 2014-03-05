@@ -52,8 +52,6 @@ stuff:
 This page describes our setup for the demo we presented at Learning @ Scale 2014. While the demo was a 15 minute overview with some tips for production, this page includes a lot more detail about how we made everything work.
 
 ## Slides
-An **unfinished** version of our slides can be found, [here][as-given]. (PDF link).
-
 <iframe src="http://www.slideshare.net/slideshow/embed_code/31957574" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
 
 Here's some download links for our files:
@@ -63,6 +61,8 @@ Here's some download links for our files:
 * [Keynote Source, no embedded clip][keynote-small]
 * [PowerPoint Converted, no clip][ppt]
 * [PDF, with presenter notes][pdf-notes]
+
+An unfinished, as given, version of our slides can be found, [here][as-given]. (PDF link).
 
 
 ## Setup
@@ -107,6 +107,7 @@ This is a list of the specific hardware that we used during the presentation, wi
 [keynote]: las2014-demo-ball-arvai-parikh.key
 [keynote-small]: las2014-demo-small-ball-arvai-parikh.key
 [pdf]: las2014-demo-ball-arvai-parikh.pdf
+[ppt]: las2014-demo-ball-arvai-parikh.ppt
 [pdf-notes]: las2014-demo-notes-ball-arvai-parikh.pdf
 [conduit]: xxx
 [conduti-file]: xxx
