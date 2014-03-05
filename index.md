@@ -14,9 +14,10 @@ A link to our 2-page overview paper is [here][paper].
 ## Contact Us
 
 If you'd like to learn more, please reach out!
-[Michael Ball](ball@berkeley.edu)
+
+* [Michael Ball](ball@berkeley.edu)
 
 <!-- Links -->
 [las]: http://learningatscale.acm.org
 [zip]: http://github.com/cs10/video/zipball/gh-pages/
-[paper]: https://github.com/cs10/video/blob/gh-pages/Learning%20at%20Scale%202014/lasw255-ball.pdf?raw=true
+[paper]: https://github.com/cs10/video/blob/gh-pages/LAS-2014/LAS%20Paper%20Overview.pdf?raw=true
