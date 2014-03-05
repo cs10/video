@@ -83,7 +83,7 @@ This is a list of the specific hardware that we used during the presentation, wi
 <ul>
     {% for i in page.stuff %}
     <li>
-        {{ i.name }} &ndsp;&ndsp;&ndsp;&ndsp;
+        {{ i.name }} &nbsp;&nbsp;&nbsp;&nbsp;
         <a href="{{ i.amzn }}&{{ site.amzn }}">Amazon</a> |
         <a type="bhphoto" data-sku="{{ i.bpho }}">B&H Photo</a>
         <br />{{ i.desc }}
