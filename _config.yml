@@ -1,5 +1,7 @@
 source: .
 destination: ./_site
+
+
 # A blank URL breaks the XML escape tag in sitemap
 #url: http://0.0.0.0:4000
 url: http://cs10.github.io/video
@@ -8,15 +10,23 @@ timezone: America/Los_Angeles
 
 # exclude: []
 
-#permalink: /:categories/:year/:i_month/:title/
+# permalink: /:categories/:year/:i_month/:title/
 permalink: pretty
 
+markdown: kramdown
+kramdown:
+  input: GFM
+
 title: Best Practices for MOOC Video
-author: Michael Ball
+author: "Michael Ball, Aatash Parikh, Eric Arvai, Dan Garcia"
 copy: 2014
 description: A guide to producting video for online education
 
-keywords: [video, mooc, SIGCSE, education, CS, computer science]
+keywords: [video, mooc, SIGCSE, education, CS, computer science, learning at scale,
+l@s, green screen, edtech, production]
+
+
+# SITE DATA
 
 amzn: tag=micbalpho-20
 aapl: at=1l3v8Vb
