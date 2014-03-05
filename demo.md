@@ -52,10 +52,18 @@ stuff:
 This page describes our setup for the demo we presented at Learning @ Scale 2014. While the demo was a 15 minute overview with some tips for production, this page includes a lot more detail about how we made everything work.
 
 ## Slides
-<!-- TODO: Post file version to slideshare and embed. -->
 An **unfinished** version of our slides can be found, [here][as-given]. (PDF link).
 
-We'll upload a more finished version with lots of bonus material soon! Promise! :)
+<iframe src="http://www.slideshare.net/slideshow/embed_code/31957574" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
+
+Here's some download links for our files:
+
+* [Keynote Source, with embedded clip][keynote]
+* [PDF, pretty][pdf]
+* [Keynote Source, no embedded clip][keynote-small]
+* [PowerPoint Converted, no clip][ppt]
+* [PDF, with presenter notes][pdf-notes]
+
 
 ## Setup
 Our setup was relatively simple for the demo, and once configured could be setup in a couple minutes. The signal flow diagram below shows how everything was connected. We had a green screen, and a light standing next to the camera, facing the green screen to help with lighting. The "Host" computer was the main computer providing video to a single projector.
@@ -96,9 +104,10 @@ This is a list of the specific hardware that we used during the presentation, wi
 
 
 [as-given]: mooc-vide-as-given-ROUGH.pdf
-[keynote]: xxx
-[keynote-small]: xxx
-[pdf]: xxx
+[keynote]: las2014-demo-ball-arvai-parikh.key
+[keynote-small]: las2014-demo-small-ball-arvai-parikh.key
+[pdf]: las2014-demo-ball-arvai-parikh.pdf
+[pdf-notes]: las2014-demo-notes-ball-arvai-parikh.pdf
 [conduit]: xxx
-[conduti-as]: xxx
+[conduti-file]: xxx
 [flow-jpg]: demo-flow-las2014-ball-arvai-parikh.jpg
