@@ -11,6 +11,10 @@ All of the materials can be downloaded as a [zip archive][zip].
 
 A link to our 2-page overview paper is [here][paper].
 
+## Contact Us
+
+If you'd like to learn more, please reach out!
+[Michael Ball](ball@berkeley.edu)
 
 <!-- Links -->
 [las]: http://learningatscale.acm.org
