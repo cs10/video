@@ -9,19 +9,19 @@ stuff:
     - name: 15" Macbook Pro (retina display)
       amzn:
       bpho:
-      desc:
+      desc: We used a 15" Mac because of the graphics power as well as the ability to have dual thunderbolt inputs and HDMI output at the same time.
     - name: Blackmagic Ultrastudio Mini Recorder
       amzn:
       bpho:
-      desc:
+      desc: The mini recorder is a tiny HDMI input device which works quite well for simple recording. We could have used two for the demo, but we had other recorders as well.
     - name: Blackmagic Intensity Extreme
       amzn:
       bpho:
-      desc:
+      desc: This is a slightly more advanced box which supports HDMI output as well as Component input, which we didn't use for the demo but can also be useful.
     - name: Blackmagic Ultrastudio Express
       amzn:
       bpho:
-      desc: While we didn't actually use this for the demo, we have this slightly larger box because it allows us to more easily record high quality audio when necessary.
+      desc: While we didn't actually use this for the demo, we have this slightly larger box because it allows us to more easily record high quality audio when necessary. This also supports HD-SDI in/out which is more common anong professional cameras and installations.
     - name: Green Screen
       amzn:
       bpho:
@@ -46,6 +46,7 @@ stuff:
       amzn:
       bpho:
       desc:
+
 ---
 
 # DEMO: Best Practices for MOOC Video
