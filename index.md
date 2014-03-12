@@ -18,6 +18,7 @@ A link to our 2-page overview paper is [here][paper].
 If you'd like to learn more, please reach out!
 
 * [Michael Ball](ball@berkeley.edu)
+* [BJC Team](bjc@bspace.berkeley.edu)
 
 <!-- Links -->
 [las]: http://learningatscale.acm.org
