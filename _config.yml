@@ -4,7 +4,7 @@ destination: ./_site
 
 # A blank URL breaks the XML escape tag in sitemap
 #url: http://0.0.0.0:4000
-url: http://cs10.github.io/video
+url: https://cs10.org/video
 
 timezone: America/Los_Angeles
 
@@ -28,7 +28,7 @@ l@s, green screen, edtech, production]
 
 # SITE DATA
 
-amzn: tag=micbalpho-20
+amzn: tag=calphoto-20
 aapl: at=1l3v8Vb
 bpho: KBID/10801
 
